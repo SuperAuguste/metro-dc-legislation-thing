@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Metro DC Legislation Overview</title>
+
+    <link rel="preconnect" href="https://rsms.me/">
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+
+    <style>
+        :root {
+            font-family: Inter, sans-serif;
+            font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+        }
+
+        @supports (font-variation-settings: normal) {
+            :root { font-family: InterVariable, sans-serif; }
+        }
+
+        .day {
+            border: 3px solid lightgray;
+            margin-bottom: 1rem;
+            padding: 1rem;
+        }
+
+        .bill {
+            background-color: lightgray;
+            margin-bottom: 1rem;
+            padding: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>Metro DC Introduced Legislation (<%= data.results.length %> items)</h1>
+
+    <p>Covers bills and resolutions in DC, Maryland, Montgomery County, Prince George's County. Updates once every 24 hours. Ordered by introduction date.</p>
+
+    <% for (const date of data.dates) { %>
+        <details class="day">
+            <summary>
+                <h2><time datetime="<%= date.date %>"></time> (<%= date.end - date.start %> items)</h2>
+            </summary>
+            <% for (const result of data.results.slice(date.start, date.end)) { %>
+                <div class="bill">
+                    <span><%= result.jurisdiction %> &bull; <%= result.id %></span>
+                    <h3><a target="_blank" href="<%= result.link %>"><%- htmlEntities(result.description) %></a></h3>
+                </div>
+            <% } %>
+        </details>
+    <% } %>
+
+    <script>
+        for (const time of [...document.querySelectorAll("time")]) {
+            time.innerText = (new Date(time.dateTime)).toLocaleDateString(undefined, {
+                weekday: "long",
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+            })
+        }
+    </script>
+</body>
+</html>
