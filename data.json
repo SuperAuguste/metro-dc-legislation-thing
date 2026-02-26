@@ -3202,7 +3202,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-HB1341",
-		"title": "Immigration Enforcement - Expanding Sensitive Locations, Notification, and Guidance (The Maryland Values Act of 2026)",
+		"title": "Immigration Enforcement - Expanding Sensitive Locations, Notification, and Guidance (Maryland Values Act of 2026)",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1341?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-02-12"
@@ -22294,5 +22294,29 @@
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1618?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-02-20"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-012-2026",
+		"title": "A RESOLUTION CONCERNING ENHANCED AFRICAN AMERICAN STUDIES CURRICULUM IN PRINCE GEORGE’S COUNTY for the purpose of the County Council affirming its support for mandatory, comprehensive African American history instruction in all Prince George’s County public schools.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7932421&GUID=47782551-91C3-472F-BA89-0FF3C1D44888",
+		"category": "Resolution",
+		"introductionDate": "2026-01-23"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-013-2026",
+		"title": "A RESOLUTION CONCERNING THE PRINCE GEORGE’S COUNTY LITERACY COMMISSION for the purpose of extending the deadlines for the submission of preliminary and final recommendations by the Prince George’s County Literacy Commission and extending the commission’s initial term established by CR-088-2025.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7932422&GUID=753487AE-E755-4CAF-B5D7-F4E05586F078",
+		"category": "Resolution",
+		"introductionDate": "2026-01-30"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-014-2026",
+		"title": "A RESOLUTION CONCERNING PRINCE GEORGE’S COUNTY STREAMLINING DEVELOPMENT REVIEW WORKGROUP for the purpose of establishing a workgroup to recommend policies and practices to the County Council and County Executive to improve efficiency, reduce redundancy, and implement best practices in the land development review process without reducing substantive public input.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7932430&GUID=F72D1590-B7F5-4A12-A449-9BA47EC4F6A6",
+		"category": "Resolution",
+		"introductionDate": "2026-02-18"
 	}
 ]
