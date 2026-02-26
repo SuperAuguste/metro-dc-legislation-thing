@@ -8,15 +8,19 @@ dotenv.config();
 
 const minimumDate = new Date("December 20, 2025");
 
-function dateWithoutTime(date) {
-    return new Date(date.toDateString());
+function isYyyyMmDdAtOrAfterMinimumDate(formattedDate) {
+    return new Date(+(formattedDate.split("-")[0]), +(formattedDate.split("-")[1]) - 1, +(formattedDate.split("-")[2])) >= minimumDate;
+}
+
+function yyyyMmDd(date) {
+    return `${date.getFullYear()}-${(date.getMonth() + 1).toString().padStart(2, "0")}-${date.getDate().toString().padStart(2, "0")}`;
 }
 
 async function fetchPrinceGeorgesCounty() {
     const [rssFeed, legistarJson] = (await Promise.all([
         axios.get("https://princegeorgescountymd.legistar.com/Feed.ashx?M=L&ID=27795052&GUID=c1bd1534-3207-4b69-8f82-47b5683f1dd9&Title=Prince+George%27s+County+Council+-+Legislation"),
         axios.get(
-            `https://webapi.legistar.com/v1/princegeorgescountymd/matters?$top=1000&$filter=MatterIntroDate+ge+datetime'${minimumDate.getFullYear()}-${minimumDate.getMonth() + 1}-${minimumDate.getDate()}'`,
+            `https://webapi.legistar.com/v1/princegeorgescountymd/matters?$top=1000&$filter=MatterIntroDate+ge+datetime'${yyyyMmDd(minimumDate)}'`,
             {headers: {"Accept": "application/json"}},
         )
     ])).map(_ => _.data);
@@ -41,9 +45,9 @@ async function fetchPrinceGeorgesCounty() {
             title: matter.MatterTitle,
             link: idToLink.get(matter.MatterFile),
             category: matter.MatterTypeName,
-            introductionDate: dateWithoutTime(new Date(matter.MatterIntroDate)),
+            introductionDate: yyyyMmDd(new Date(matter.MatterIntroDate)),
         };
-        if (value.introductionDate <= minimumDate) continue;
+        if (!isYyyyMmDdAtOrAfterMinimumDate(value.introductionDate)) continue;
         // TODO: Do we want more? Planning things? Appointments?
         if (value.category !== "Council Bill" && value.category !== "Resolution") continue;
         if (!value.link) throw new Error("Missing link");
@@ -68,10 +72,10 @@ async function fetchMontomgeryCounty() {
             title: $($(children[2]).children()[1]).text().trim(),
             link: "https://apps.montgomerycountymd.gov/ccllims/" + $($(children[1]).children()[1]).attr("href"),
             category: id.startsWith("Bill") ? "Bill" : (id.startsWith("Resolution") ? "Resolution" : "Unknown"),
-            introductionDate: dateWithoutTime(new Date($($(children[5]).children()[1]).text())),
+            introductionDate: yyyyMmDd(new Date($($(children[5]).children()[1]).text())),
         };
         if ($($(children[5]).children()[1]).text().trim().length === 0) continue;
-        if (value.introductionDate <= minimumDate) continue;
+        if (!isYyyyMmDdAtOrAfterMinimumDate(value.introductionDate)) continue;
         values.push(value);
     }
 
@@ -104,9 +108,9 @@ async function fetchDc() {
             title: item.title,
             link: `https://lims.dccouncil.gov/Legislation/${item.legislationNumber}`,
             category: item.legislationCategory,
-            introductionDate: dateWithoutTime(new Date(item.introductionDate)),
+            introductionDate: yyyyMmDd(new Date(item.introductionDate)),
         };
-        if (value.introductionDate <= minimumDate) continue;
+        if (!isYyyyMmDdAtOrAfterMinimumDate(value.introductionDate)) continue;
         values.push(value);
     }
 
@@ -143,9 +147,9 @@ async function fetchMaryland() {
             title: item["Title"],
             link: `https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/${item["Bill Number"]}?ys=2026RS#`,
             category,
-            introductionDate: dateWithoutTime(new Date(firstReadingComponents[2], firstReadingComponents[0]-1, firstReadingComponents[1])),
+            introductionDate: yyyyMmDd(new Date(firstReadingComponents[2], firstReadingComponents[0]-1, firstReadingComponents[1])),
         };
-        if (value.introductionDate <= minimumDate) continue;
+        if (!isYyyyMmDdAtOrAfterMinimumDate(value.introductionDate)) continue;
         values.push(value);
     }
 
