@@ -2,7 +2,6 @@ import * as cheerio from "cheerio";
 import axios from "axios";
 import dotenv from "dotenv";
 import fs from "fs";
-import ejs from "ejs";
 import neatCsv from "neat-csv";
 
 dotenv.config();
@@ -38,8 +37,8 @@ async function fetchPrinceGeorgesCounty() {
     for (const matter of legistarJson) {
         const value = {
             jurisdiction: "Prince George's County",
-            id: matter.MatterFile,
-            description: matter.MatterTitle,
+            id: `PG-${matter.MatterFile}`,
+            title: matter.MatterTitle,
             link: idToLink.get(matter.MatterFile),
             category: matter.MatterTypeName,
             introductionDate: dateWithoutTime(new Date(matter.MatterIntroDate)),
@@ -65,8 +64,8 @@ async function fetchMontomgeryCounty() {
         const id = $($(children[1]).children()[1]).text().trim();
         const value = {
             jurisdiction: "Montgomery County",
-            id,
-            description: $($(children[2]).children()[1]).text().trim(),
+            id: `MC-${id}`,
+            title: $($(children[2]).children()[1]).text().trim(),
             link: "https://apps.montgomerycountymd.gov/ccllims/" + $($(children[1]).children()[1]).attr("href"),
             category: id.startsWith("Bill") ? "Bill" : (id.startsWith("Resolution") ? "Resolution" : "Unknown"),
             introductionDate: dateWithoutTime(new Date($($(children[5]).children()[1]).text())),
@@ -101,8 +100,8 @@ async function fetchDc() {
     for (const item of bulkData) {
         const value = {
             jurisdiction: "District of Columbia",
-            id: item.legislationNumber,
-            description: item.title,
+            id: `DC-${item.legislationNumber}`,
+            title: item.title,
             link: `https://lims.dccouncil.gov/Legislation/${item.legislationNumber}`,
             category: item.legislationCategory,
             introductionDate: dateWithoutTime(new Date(item.introductionDate)),
@@ -140,8 +139,8 @@ async function fetchMaryland() {
 
         const value = {
             jurisdiction: "Maryland",
-            id: item["Bill Number"],
-            description: item["Title"],
+            id: `MD-2026RS-${item["Bill Number"]}`,
+            title: item["Title"],
             link: `https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/${item["Bill Number"]}?ys=2026RS#`,
             category,
             introductionDate: dateWithoutTime(new Date(firstReadingComponents[2], firstReadingComponents[0]-1, firstReadingComponents[1])),
@@ -153,48 +152,58 @@ async function fetchMaryland() {
     return values;
 }
 
-async function fetchAllAndSort() {
-    const results = (await Promise.all([
+/**
+ * Fetch new data and insert it, maintain primary key (id) order.
+ */
+async function fetchAllAndMerge() {
+    const existingData = JSON.parse((await fs.promises.readFile("data.json")).toString());
+    const existingIds = new Map();
+    for (const entry of existingData) {
+        existingIds.set(entry.id, entry);
+    }
+
+    const newData = (await Promise.all([
         fetchPrinceGeorgesCounty(),
         fetchMontomgeryCounty(),
         fetchDc(),
         fetchMaryland(),
     ])).flat();
-    
-    results.sort((a, b) => 
-        +a.introductionDate === +b.introductionDate ?
-        a.description.localeCompare(b.description, undefined, {sensitivity: "base"}) :
-        +b.introductionDate - +a.introductionDate
-    );
 
-    let dates = [];
+    const mergedResults = [];
+    const newIds = new Map();
+    for (const entry of newData) {
+        newIds.set(entry.id, entry);
+    }
 
-    let date = null;
-    let dateStart = 0;
-    for (let i = 0; i < results.length; i++) {
-        const result = results[i];
-        if (+date !== +result.introductionDate) {
-            if (date !== null) dates.push({date, start: dateStart, end: i});
-            dateStart = i;
-            date = result.introductionDate;
+    for (const [id, oldResult] of existingIds.entries()) {
+        const newResult = newIds.get(id)
+        if (newResult === undefined) {
+            mergedResults.push(oldResult);
+        } else {
+            mergedResults.push(newResult);
+            newIds.delete(id);
         }
     }
-    if (date !== null) dates.push({date, start: dateStart, end: results.length});
+
+    for (const [_id, newResult] of newIds.entries()) {
+        mergedResults.push(newResult);
+    }
     
-    return {
-        dates,
-        results,
-    };
+    await fs.promises.writeFile("data.json", JSON.stringify(mergedResults, null, "\t"));
+
+    return mergedResults;
 }
 
-// fs.writeFileSync("pol2.json", JSON.stringify(await fetchPrinceGeorgesCounty(), null, "\t"));
+async function writeDataToCsv(data) {
+    let result = "ID,Jurisdiction,Title,Link,Category,Introduction Date\n";
 
-fs.writeFileSync("data.json", JSON.stringify(await fetchAllAndSort(), null, "\t"));
-
-const data = JSON.parse(fs.readFileSync("data.json"));
-fs.writeFileSync("summary.html", ejs.render(fs.readFileSync("summary.ejs").toString(), {
-    data,
-    htmlEntities(str) {
-        return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    for (const entry of data) {
+        result += `${entry.id},${entry.jurisdiction},"${entry.title.replaceAll(`"`, `""`)}","${entry.link.replaceAll(`"`, `""`)}",${entry.category},${entry.introductionDate}\n`;
     }
-}));
+
+    result += "\n";
+
+    await fs.promises.writeFile("data.csv", result);
+}
+
+await writeDataToCsv(await fetchAllAndMerge());
