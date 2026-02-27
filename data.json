@@ -16546,7 +16546,7 @@
 	{
 		"jurisdiction": "Montgomery County",
 		"id": "MC-Bill 5-26",
-		"title": "Police - Mask or Facial Coverings - Prohibited",
+		"title": "Police - Mask or Facial Coverings - Prohibited (The Unmask ICE Act)",
 		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2893",
 		"category": "Bill",
 		"introductionDate": "2026-01-20"
@@ -22318,5 +22318,29 @@
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7932430&GUID=F72D1590-B7F5-4A12-A449-9BA47EC4F6A6",
 		"category": "Resolution",
 		"introductionDate": "2026-02-18"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 14-26E",
+		"title": "Motor Vehicle Towing - Redemption of Vehicle - Proof of Ownership or Control (The Vehicle Recovery Act)",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2902",
+		"category": "Bill",
+		"introductionDate": "2026-03-03"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 13-26E",
+		"title": "Building Permits - Immigration Detention Facility (ICE Out Act)",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2901",
+		"category": "Bill",
+		"introductionDate": "2026-03-03"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0135",
+		"title": "Chinese Lunar New Year 4724, Year of the Horse Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0135",
+		"category": "Resolution",
+		"introductionDate": "2026-02-26"
 	}
 ]
