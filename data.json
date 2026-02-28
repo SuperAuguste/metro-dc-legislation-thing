@@ -22462,5 +22462,21 @@
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0992?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-02-19"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-HB1624",
+		"title": "Public Information Act - Inspectors General - Access of Public Records",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1624?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-02-21"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-SB0993",
+		"title": "Workers' Compensation - Exemption From Exclusivity of Remedy - Action for Wrongful Death by Nondependent Child",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0993?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-02-19"
 	}
 ]
