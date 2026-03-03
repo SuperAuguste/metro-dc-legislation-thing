@@ -22798,5 +22798,13 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0564",
 		"category": "Resolution",
 		"introductionDate": "2026-03-02"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-SB0994",
+		"title": "Agriculture - Hemp Manufacturing License - Establishment",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0994?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-02-19"
 	}
 ]
