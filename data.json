@@ -15674,7 +15674,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-HB0430",
-		"title": "Family Child Care Providers - National Guard and Military Reserves Members - Substitute Provider",
+		"title": "Family Child Care Providers - Reserve Component Members - Substitute Provider",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0430?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-01-22"
@@ -22854,5 +22854,61 @@
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0996?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-03-05"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1054",
+		"title": "Amendment to Resolution 20-1025, Correcting the County Executive’s Appointments to the Silver Spring Citizens Advisory Board",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12741",
+		"category": "Resolution",
+		"introductionDate": "2026-03-03"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1053",
+		"title": "County Executive’s Appointments to the Building Performance Improvement Board",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12740",
+		"category": "Resolution",
+		"introductionDate": "2026-03-03"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1052",
+		"title": "Supplemental Appropriation #26-39 to the FY26 Capital Budget and Amendment to the FY25-30 Capital Improvements Program, Montgomery County Government, Department of Health and Human Services, Affordable Living Quarters (No. 602201), $7,221,940",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12739",
+		"category": "Resolution",
+		"introductionDate": "2026-01-27"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1051",
+		"title": "Supplemental Appropriation #26-20 to the FY26 Capital Budget Montgomery County Government, Department of Transportation, Parking Wheaton Facility Renovations (No. 509709), $34,650",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12738",
+		"category": "Resolution",
+		"introductionDate": "2026-01-27"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1050",
+		"title": "Supporting the Principles of the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12737",
+		"category": "Resolution",
+		"introductionDate": "2026-03-03"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0621",
+		"title": "Procurement Reform Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0621",
+		"category": "Bill",
+		"introductionDate": "2026-03-02"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0622",
+		"title": "Consumer Levies on Obstructive Garbage Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0622",
+		"category": "Bill",
+		"introductionDate": "2026-03-02"
 	}
 ]
