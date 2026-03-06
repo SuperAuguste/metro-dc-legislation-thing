@@ -22910,5 +22910,21 @@
 		"link": "https://lims.dccouncil.gov/Legislation/B26-0622",
 		"category": "Bill",
 		"introductionDate": "2026-03-02"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0565",
+		"title": "Board of Library Trustees Holly Flood Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0565",
+		"category": "Resolution",
+		"introductionDate": "2026-03-03"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0566",
+		"title": "Board of Library Trustees Kristi C. Whitfield Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0566",
+		"category": "Resolution",
+		"introductionDate": "2026-03-03"
 	}
 ]
