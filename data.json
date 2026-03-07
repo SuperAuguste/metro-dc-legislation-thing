@@ -23078,5 +23078,45 @@
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7943427&GUID=3AD16833-9CE1-4477-A60F-70BB77933117",
 		"category": "Council Bill",
 		"introductionDate": "2026-03-03"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-HB1632",
+		"title": "Anthony McCarthy Task Force to Study Dialysis Outcomes",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1632?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-02-25"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-HB1633",
+		"title": "Retail Supply of Electricity and Gas (Energy Savings Act of 2026)",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1633?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-02-25"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-SB1000",
+		"title": "Certificates of Public Convenience and Necessity and Construction of Data Centers",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB1000?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-02-23"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-SB1001",
+		"title": "Natural Resources - Development of Abandoned Railroad Corridors - Proof of Title",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB1001?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-02-24"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-SB1002",
+		"title": "Prince George's County - Alcoholic Beverages - Class AER (Equity Retail) License",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB1002?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-02-24"
 	}
 ]
