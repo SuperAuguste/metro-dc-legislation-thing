@@ -143,11 +143,53 @@ async function fetchMaryland() {
 
         const value = {
             jurisdiction: "Maryland",
-            id: `MD-2026RS-${item["Bill Number"]}`,
+            id: `MD-${session.toUpperCase()}-${item["Bill Number"]}`,
             title: item["Title"],
-            link: `https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/${item["Bill Number"]}?ys=2026RS#`,
+            link: `https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/${item["Bill Number"]}?ys=${session.toUpperCase()}#`,
             category,
             introductionDate: yyyyMmDd(new Date(firstReadingComponents[2], firstReadingComponents[0]-1, firstReadingComponents[1])),
+        };
+        if (!isYyyyMmDdAtOrAfterMinimumDate(value.introductionDate)) continue;
+        values.push(value);
+    }
+
+    return values;
+}
+
+async function fetchVirginia() {
+    const session = "20261";
+    const csv = await neatCsv((await axios.get(`https://lis.blob.core.windows.net/lisfiles/${session}/BILLS.CSV`)).data);
+    
+    let values = [];
+
+    for (const item of csv) {
+        let category;
+        switch (item["Bill_id"].at(1)) {
+            case "B":
+                category = "Bill";
+                break;
+        
+            case "R":
+                category = "Joint Resolution";
+                break;
+
+            case "J":
+                category = "Joint Resolution";
+                break;
+
+            default:
+                continue;
+        }
+
+        let introductionDateComponents = item["Introduction_date"].split("/").map(v => parseInt(v));
+
+        const value = {
+            jurisdiction: "Virginia",
+            id: `VA-${session}-${item["Bill_id"]}`,
+            title: item["Bill_description"],
+            link: `https://lis.virginia.gov/bill-details/${session}/${item["Bill_id"]}`,
+            category,
+            introductionDate: yyyyMmDd(new Date(introductionDateComponents[2], introductionDateComponents[0]-1, introductionDateComponents[1])),
         };
         if (!isYyyyMmDdAtOrAfterMinimumDate(value.introductionDate)) continue;
         values.push(value);
@@ -171,6 +213,7 @@ async function fetchAllAndMerge() {
         fetchMontomgeryCounty(),
         fetchDc(),
         fetchMaryland(),
+        fetchVirginia(),
     ])).flat();
 
     const mergedResults = [];
