@@ -23994,7 +23994,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB125",
-		"title": "Public school teachers; written notice of noncontinuation of continuing contract.",
+		"title": "Public school teachers; reemployment of teacher who has not received continuing contract status.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB125",
 		"category": "Bill",
 		"introductionDate": "2026-01-02"
@@ -29922,7 +29922,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB867",
-		"title": "Affordable housing; local zoning ordinance authority, delayed effective date, effective clause.",
+		"title": "Affordable housing; local zoning ordinance authority.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB867",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -30522,7 +30522,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB942",
-		"title": "Child abuse and neglect; custody and visitation, possession or consumption of authorized substances.",
+		"title": "Custody and visitation of a child; possession or consumption of authorized substances.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB942",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -30618,7 +30618,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB954",
-		"title": "Rounding procedures; taxes and fees calculated, counties, cities, and towns may set procedures.",
+		"title": "Rounding procedures; taxes and fees calculated, report.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB954",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -32026,7 +32026,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1130",
-		"title": "Workforce housing for employees of a locality or school board; lease of surplus property.",
+		"title": "Workforce housing for employees; county bd. of supervisor or school bd., lease of surplus property.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1130",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -32858,7 +32858,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1234",
-		"title": "Land development; solar canopies in surface parking areas, definitions.",
+		"title": "Land development; definitions, solar canopies in surface parking areas, delayed effective date.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1234",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -33370,7 +33370,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1298",
-		"title": "Human trafficking; issuance of vacatur for victims.",
+		"title": "Human trafficking; issuance of vacatur for victims, definitions.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1298",
 		"category": "Bill",
 		"introductionDate": "2026-01-15"
@@ -40202,7 +40202,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB123",
-		"title": "Poquoson, City of; amending charter, relating to school boards.",
+		"title": "Poquoson, City of; amending charter, relating to school boards, terms of membership.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB123",
 		"category": "Bill",
 		"introductionDate": "2026-01-05"
@@ -43170,7 +43170,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB494",
-		"title": "Higher educational institutions public; membership of governing boards.",
+		"title": "Higher educational institutions, public; membership of governing boards.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB494",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -48294,5 +48294,517 @@
 		"link": "https://lis.virginia.gov/bill-details/20261/SR109",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ264",
+		"title": "Commending the Virginia Department of Conservation and Recreation.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ264",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ265",
+		"title": "Celebrating the life of Jada Mairin Samitt.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ265",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ266",
+		"title": "Commending the Reverend Dr. Kevin G. Swann.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ266",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ267",
+		"title": "Commending Community Eligibility Provision schools in Virginia.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ267",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ268",
+		"title": "Celebrating the life of Irene Cuda Rosenbaum.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ268",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ269",
+		"title": "Commending Winn's Baptist Church.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ269",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ270",
+		"title": "Commending the Norfolk State University Alumni Association Portsmouth Chapter.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ270",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-08"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ271",
+		"title": "Celebrating the life of Wayne Oliver Pryor.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ271",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-08"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ272",
+		"title": "Commending Harold Fitrer, Ed.D.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ272",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-08"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ273",
+		"title": "Commending Blue Ridge Literacy.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ273",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ274",
+		"title": "Commending New Horizons Healthcare.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ274",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ275",
+		"title": "Celebrating the life of Irene Adele White.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ275",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ276",
+		"title": "Commending Meredith Farrar-Owens.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ276",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ277",
+		"title": "Commending the National Women's Political Caucus of Virginia.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ277",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ278",
+		"title": "Commending Caroline's Promise.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ278",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ279",
+		"title": "Commending Andrea Miller.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ279",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ280",
+		"title": "Celebrating the life of the Honorable Gerald Edward Connolly.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ280",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ281",
+		"title": "Commending Romuald Lipinski.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ281",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ282",
+		"title": "Commending Glasgow Middle School.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ282",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ283",
+		"title": "Commending Sergeant Dianne M. Dowdy.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ283",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ284",
+		"title": "Commending the Patrick Henry High School Scholastic Bowl team.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ284",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ285",
+		"title": "Commending Strongwell.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ285",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR319",
+		"title": "Celebrating the life of Lawrence Toliver, Sr.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR319",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR320",
+		"title": "Commending Claude W. Harrison.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR320",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR321",
+		"title": "Commending the Sandusky Middle School girls' basketball team.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR321",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-07"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR322",
+		"title": "Commending Melissa Rollins.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR322",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-08"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR323",
+		"title": "Commending the 2026 Community Builders Award honorees of the Hampton Roads Community Action Program.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR323",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-08"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR324",
+		"title": "Commending the Phi Beta Kappa Society.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR324",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-08"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR325",
+		"title": "Celebrating the life of Barbara Drucker Smith.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR325",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-08"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR326",
+		"title": "Celebrating the life of Andrew Thomas Olaisen.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR326",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-08"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR327",
+		"title": "Commending the Town of Dendron.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR327",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-08"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR328",
+		"title": "Commending the Blue Ridge Volunteer Fire Company, Inc.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR328",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR329",
+		"title": "Commending John Smith.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR329",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR330",
+		"title": "Commending Matt Walker.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR330",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR331",
+		"title": "Celebrating the life of Branden Patrick Green.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR331",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR332",
+		"title": "Commending Network NOVA.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR332",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR333",
+		"title": "Commending the Conservation Alliance of Braemar.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR333",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR334",
+		"title": "Commending Hanna G. Hanania, D.D.S.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR334",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR335",
+		"title": "Commending Lauren Simon, DDS.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR335",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR336",
+		"title": "Commending Ilia Roman Malinin.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR336",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR337",
+		"title": "Commending Pampa's Fox Catering.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR337",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR338",
+		"title": "Commending Julie Kessler.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR338",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR339",
+		"title": "Commending Hector's of Nokesville.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR339",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR340",
+		"title": "Commending the Nokesville Business Association.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR340",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR341",
+		"title": "Commending David Damon.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR341",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR342",
+		"title": "Commending Merissa Bartoli.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR342",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR343",
+		"title": "Commending Mystique Ro.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR343",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR344",
+		"title": "Commending Bay Aging.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR344",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR345",
+		"title": "Celebrating the life of Wesley Thomas Worsham.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR345",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR346",
+		"title": "Celebrating the life of the Reverend Wendell A. Johnson.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR346",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR347",
+		"title": "Celebrating the life of Alice F. Robinson.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR347",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR348",
+		"title": "Celebrating the life of Lonnie M. Janes.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR348",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR349",
+		"title": "Commending Ruffin Insurance Agency.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR349",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR350",
+		"title": "Commending Ricardo Foster.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR350",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR351",
+		"title": "Commending Green Run Elementary School.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR351",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR352",
+		"title": "Commending Landstown High School.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR352",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR353",
+		"title": "Commending FeLynn Oriental Restaurant.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR353",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR354",
+		"title": "Commending Rosemont Elementary School.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR354",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR355",
+		"title": "Commending Bee Boisseau.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR355",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR356",
+		"title": "Commending Beatrice Parker.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR356",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR357",
+		"title": "Commending Stephanie Alston.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR357",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR358",
+		"title": "Commending Jared A. Cotton, Ed.D.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR358",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR359",
+		"title": "Commending the Louisa Extension Master Gardeners.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR359",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR360",
+		"title": "Celebrating the life of John Philip Robbins.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR360",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-09"
 	}
 ]
