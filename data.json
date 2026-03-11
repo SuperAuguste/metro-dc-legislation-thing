@@ -50150,5 +50150,21 @@
 		"link": "https://lis.virginia.gov/bill-details/20261/SR122",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-03-10"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-HB1643",
+		"title": "Employment Discrimination - School Employees - Use of Cannabis",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1643?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-02-26"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-HB1644",
+		"title": "Property Management Services - Licensing and Requirements",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1644?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-02-26"
 	}
 ]
