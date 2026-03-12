@@ -27906,7 +27906,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB614",
-		"title": "Historically marginalized communities; inclusion in History/Soc. Science SOL & Curriculum Framework.",
+		"title": "History/Soc. Science SOL & Curriculum Framework; review of instruction on roles of all peoples.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB614",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -40058,7 +40058,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB105",
-		"title": "STEM+C Competition Team Grant Program; eligibility for grants.",
+		"title": "STEM+C competition team grants; DOE to consider changes to application and eligibility guidelines.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB105",
 		"category": "Bill",
 		"introductionDate": "2025-12-31"
@@ -40586,7 +40586,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB171",
-		"title": "Minors admitted to inpatient treatment; copies provided to public elementary and secondary schools.",
+		"title": "Minor elementary or secondary school students admitted to inpatient treatment; discl. of discharge.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB171",
 		"category": "Bill",
 		"introductionDate": "2026-01-08"
@@ -41282,7 +41282,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB258",
-		"title": "Virginia Human Rights Act; menopause or perimenopause, discrimination prohibited.",
+		"title": "Virginia Human Rights Act; reasonable accommodation for known limitations related to menopause.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB258",
 		"category": "Bill",
 		"introductionDate": "2026-01-12"
@@ -41610,7 +41610,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB299",
-		"title": "New College Institute; board of directors, membership and composition.",
+		"title": "New College Institute; membership and composition of board of directors, report.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB299",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -50130,7 +50130,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SR120",
-		"title": "Commending the Abingdon High School girls volleyball team.",
+		"title": "Commending the Abingdon High School girls' volleyball team.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SR120",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-03-10"
@@ -50198,5 +50198,229 @@
 		"link": "https://lis.virginia.gov/bill-details/20261/HR388",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-03-10"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR389",
+		"title": "Nominating persons to be elected to circuit court judgeships.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR389",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR390",
+		"title": "Nominating persons to be elected to general district court judgeships.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR390",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR391",
+		"title": "Nominating persons to be elected to juvenile and domestic relations district court judgeships.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR391",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR392",
+		"title": "Commending the Fairfax Connector.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR392",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR393",
+		"title": "Commending Braden Health.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR393",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR394",
+		"title": "Commending the Virginia Center for Inclusive Communities.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR394",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR395",
+		"title": "Commending the Richmond Chapter of Continental Societies, Inc.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR395",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR396",
+		"title": "Commending Thomas M. Woody.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR396",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR397",
+		"title": "Celebrating the life of Abby L. Block.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR397",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR398",
+		"title": "Commending Justin Simmons.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR398",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR399",
+		"title": "Commending Samina Z. Butt.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR399",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR400",
+		"title": "Commending Major Joseph R. Denti, ANG.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR400",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR401",
+		"title": "Celebrating the life of Eugene Hamilton Hurst, Jr.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR401",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR402",
+		"title": "Commending the veterans of the United States Armed Forces from Augusta County.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR402",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR403",
+		"title": "Commending William Massey.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR403",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR404",
+		"title": "Commending the Smithfield High School KidWind Challenge teams.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR404",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR405",
+		"title": "Commending the Bruton High School boys' indoor track and field team.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR405",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR123",
+		"title": "Commending Corey L. McCray, Ph.D.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR123",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR124",
+		"title": "Commending the Western Tidewater Free Clinic.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR124",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR125",
+		"title": "Commending American Legion Post 88.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR125",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR126",
+		"title": "Commending Veterans of Foreign Wars Post 8545.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR126",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR127",
+		"title": "Commending the Windsor Ruritan Club.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR127",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR128",
+		"title": "Commending the Franklin High School boys basketball team.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR128",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR129",
+		"title": "Commending Smithfield VA Events.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR129",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR130",
+		"title": "Commending the Brunswick Academy girls basketball team.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR130",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR131",
+		"title": "Commending the Bradshaw Benevolence Grant.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR131",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR132",
+		"title": "Commending Alyse Zeffiro.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR132",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR133",
+		"title": "Celebrating the life of Brian Lindsay Fortna.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR133",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-11"
 	}
 ]
