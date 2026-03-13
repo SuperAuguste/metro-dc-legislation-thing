@@ -51454,5 +51454,21 @@
 		"link": "https://lis.virginia.gov/bill-details/20261/SR165",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-03-12"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-HB1645",
+		"title": "Public Health - American Legion Automated External Defibrillator Grant Program - Established",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1645?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-02-28"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-HJ0010",
+		"title": "Condemning Violence and Violations of Law - Russian Federation in Ukraine",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HJ0010?ys=2026RS#",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-02-28"
 	}
 ]
