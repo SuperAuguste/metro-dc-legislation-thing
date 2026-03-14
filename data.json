@@ -51550,5 +51550,37 @@
 		"link": "https://lis.virginia.gov/bill-details/20261/SR172",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-03-13"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-019-2026",
+		"title": "A RESOLUTION CONCERNING THE LOCAL IMPACT GRANT FUNDS MULTIYEAR PLAN for the purpose of transmitting the Local Impact Grant Funds Multiyear Plan to the County Council for review and approval.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7951866&GUID=894275D9-EF30-45C1-A508-ED7D2E8127F9",
+		"category": "Resolution",
+		"introductionDate": "2026-03-13"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR166",
+		"title": "Nominating persons to be elected to circuit court judgeships.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR166",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-13"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR167",
+		"title": "Nominating persons to be elected to general district court judgeships.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR167",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-13"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-SR168",
+		"title": "Nominating persons to be elected to juvenile and domestic relations district court judgeships.",
+		"link": "https://lis.virginia.gov/bill-details/20261/SR168",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-13"
 	}
 ]
