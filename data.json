@@ -51490,7 +51490,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HR484",
-		"title": "Nominating persons to be elected to general district court judgeships.",
+		"title": "Judges; nominations for election to general district court.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HR484",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-03-13"
@@ -51598,5 +51598,21 @@
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB1008?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-02-28"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ316",
+		"title": "General Assembly; House Bill No. 30 to be carried over to a 2026 Special Session.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ316",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-14"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HJ317",
+		"title": "General Assembly; Governor to call special session, establishing a schedule for conduct of business.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HJ317",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-03-14"
 	}
 ]
