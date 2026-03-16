@@ -51614,5 +51614,69 @@
 		"link": "https://lis.virginia.gov/bill-details/20261/HJ317",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-03-14"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0626",
+		"title": "Dr. William Keelan Collins, Sr. Way Designation Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0626",
+		"category": "Bill",
+		"introductionDate": "2026-03-11"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0568",
+		"title": "Medical Cannabis Qualifying Patient Application Approval Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0568",
+		"category": "Resolution",
+		"introductionDate": "2026-03-13"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0569",
+		"title": "Commission on the Arts and Humanities Demetrius Butler Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0569",
+		"category": "Resolution",
+		"introductionDate": "2026-03-12"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0570",
+		"title": "Commission on the Arts and Humanities Janice Kim Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0570",
+		"category": "Resolution",
+		"introductionDate": "2026-03-12"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0571",
+		"title": "Commission on the Arts and Humanities Carla Sims Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0571",
+		"category": "Resolution",
+		"introductionDate": "2026-03-12"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0572",
+		"title": "Commission on the Arts and Humanities Hector Torres Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0572",
+		"category": "Resolution",
+		"introductionDate": "2026-03-12"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0573",
+		"title": "Office of Employee Appeals Philip A. McNamara Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0573",
+		"category": "Resolution",
+		"introductionDate": "2026-03-12"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0574",
+		"title": "Maternal Mortality Review Committee Dr. Nancy Gaba Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0574",
+		"category": "Resolution",
+		"introductionDate": "2026-03-12"
 	}
 ]
