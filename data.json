@@ -29450,7 +29450,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB808",
-		"title": "Insurance; unfair claim settlement practices, modification of load estimate.",
+		"title": "Insurance; unfair claim settlement practices, modification of loss estimate.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB808",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -31722,7 +31722,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1092",
-		"title": "Protection of employees; standards for heat illness prevention.",
+		"title": "Protection of employees; standards for heat illness prevention, report.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1092",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -45034,7 +45034,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB727",
-		"title": "Assault firearms, loaded; carrying in public areas prohibited in the Commonwealth, penalty",
+		"title": "Assault firearms, loaded; carrying in public areas prohibited in the Commonwealth, penalty.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB727",
 		"category": "Bill",
 		"introductionDate": "2026-01-19"
@@ -49114,7 +49114,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SJ214",
-		"title": "Commending James C. Wright Funeral Home &amp; Crematory, Inc.",
+		"title": "Commending James C. Wright Funeral Home and Crematory, Inc.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SJ214",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-03-09"
@@ -50138,7 +50138,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SR121",
-		"title": "Commending Intermont Equestrian at Emory &amp; Henry University.",
+		"title": "Commending Intermont Equestrian at Emory & Henry University.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SR121",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-03-10"
@@ -51878,5 +51878,29 @@
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7957923&GUID=64D17BEE-78DA-4B47-84F2-CA415A46E16F",
 		"category": "Resolution",
 		"introductionDate": "2026-03-20"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-023-2026",
+		"title": "A RESOLUTION CONCERNING THE DOMESTIC VIOLENCE WORKGROUP for the purpose of amending CR-125-2025 to revise the composition of the Domestic Violence Workgroup by removing specifically named nonprofit organizations and instead authorizing the County Council Chair to appoint representatives from nonprofit organizations to serve on the Workgroup; and generally relating to the Domestic Violence Workgroup.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7959464&GUID=E94863A2-A16B-4C68-AA98-11519C0231AF",
+		"category": "Resolution",
+		"introductionDate": "2026-03-23"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0138",
+		"title": "FRESHFARM FoodPrints 20th Anniversary Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0138",
+		"category": "Resolution",
+		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0139",
+		"title": "Liz Crafford Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0139",
+		"category": "Resolution",
+		"introductionDate": "2026-03-10"
 	}
 ]
