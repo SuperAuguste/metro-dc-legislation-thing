@@ -21434,7 +21434,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-HB0074",
-		"title": "State Procurement - Construction and Services - Contract Modification",
+		"title": "State Procurement - Security Services - Contract Modification",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0074?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -26514,7 +26514,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB440",
-		"title": "Driver's licenses; repeals suspension for nonpayment of child support and unsatisfied judgements.",
+		"title": "Driver's licenses; repeals suspension for nonpayment of child support and unsatisfied judgments.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB440",
 		"category": "Bill",
 		"introductionDate": "2026-01-12"
@@ -26730,7 +26730,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB467",
-		"title": "Conservator annual accounting reports; office of the Executive Secretary of Va. to review, report.",
+		"title": "Conservator annual accounting reports; Office of the Executive Secretary of Va. to review, report.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB467",
 		"category": "Bill",
 		"introductionDate": "2026-01-12"
@@ -52534,5 +52534,85 @@
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1646?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-03-16"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0651",
+		"title": "Arena Safety Conformity Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0651",
+		"category": "Bill",
+		"introductionDate": "2026-03-30"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0622",
+		"title": "Commission on African-American Affairs Clarence Miles Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0622",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0623",
+		"title": "Commission on African-American Affairs Dwayne Falwell Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0623",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0624",
+		"title": "Commission on African-American Affairs Gloria Dunbar Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0624",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0625",
+		"title": "Commission on African-American Affairs Janet Wright Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0625",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0626",
+		"title": "Commission on African-American Affairs Mitchell Asante Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0626",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0627",
+		"title": "Commission on African-American Affairs Paul Spires Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0627",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0628",
+		"title": "Commission on African-American Affairs Randall Henderson Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0628",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0629",
+		"title": "Commission on African-American Affairs Ty Powell Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0629",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0630",
+		"title": "Commission on African-American Affairs Victor Battle Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0630",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
 	}
 ]
