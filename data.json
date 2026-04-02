@@ -52526,5 +52526,13 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0621",
 		"category": "Resolution",
 		"introductionDate": "2026-03-30"
+	},
+	{
+		"jurisdiction": "Maryland",
+		"id": "MD-2026RS-HB1646",
+		"title": "Maryland Aviation Administration - Airport Passenger Screening Partnership Program",
+		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1646?ys=2026RS#",
+		"category": "Bill",
+		"introductionDate": "2026-03-16"
 	}
 ]
