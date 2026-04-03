@@ -52614,5 +52614,29 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0630",
 		"category": "Resolution",
 		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-031-2026",
+		"title": "AN ACT CONCERNING IMMIGRATION DETENTION FACILITIES for the purpose of prohibiting the issuance of a building permit or certificate of occupancy for any privately-owned building, facility, or structure used, in whole or in part, to house or detain individuals for civil immigration violations; and generally relating to the issuance of building permits.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7971014&GUID=A028E319-F147-453F-8B93-B11AFC4A2893",
+		"category": "Council Bill",
+		"introductionDate": "2026-03-05"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-024-2026",
+		"title": "A RESOLUTION CONCERNING THE ACCESSIBILITY TASKFORCE FOR THE BLIND AND DEAF for the purpose of identifying accessibility barriers and developing recommendations to improve access for blind, low-vision, deaf, and hard-of-hearing residents in Prince George’s County; consideration of related accessibility issues affecting other residents with disabilities; the membership of the accessibility task force; and generally relating to improving accessibility for residents who are deaf or blind.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7971015&GUID=254A47DB-0676-4C42-97AD-41152B4228AE",
+		"category": "Resolution",
+		"introductionDate": "2026-03-05"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-025-2026",
+		"title": "A RESOLUTION CONCERNING DISTRICT COUNCIL RULES OF PROCEDURE for the purpose of amending Rules of Procedure for the District Council.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7971017&GUID=05029258-2C4B-4057-81D9-CC51B6D7B757",
+		"category": "Resolution",
+		"introductionDate": "2026-03-24"
 	}
 ]
