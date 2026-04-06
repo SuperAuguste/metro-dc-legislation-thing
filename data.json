@@ -16218,7 +16218,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-SB0283",
-		"title": "Creation of a State Debt � Maryland Consolidated Capital Bond Loan of 2026, and the Maryland Consolidated Capital Bond Loans of 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, and 2025",
+		"title": "Creation of a State Debt � Maryland Consolidated Capital Bond Loan of 2026, and the Maryland Consolidated Capital Bond Loans of 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, and 2025",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0283?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-01-21"
@@ -23362,7 +23362,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB46",
-		"title": "Judges; increases maximum number authorized in the Twentieth Judicial Circuit.",
+		"title": "Judges; maximum number in each judicial circuit.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB46",
 		"category": "Bill",
 		"introductionDate": "2025-12-26"
@@ -23434,7 +23434,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB55",
-		"title": "Noise abatement monitoring systems; local authorities to place and operate, civil penalties.",
+		"title": "Noise abatement monitoring systems; local authorities, civil penalties.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB55",
 		"category": "Bill",
 		"introductionDate": "2025-12-29"
@@ -23522,7 +23522,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB66",
-		"title": "Federal benefit programs; DMS & DSS shall study technology systems used to administer.",
+		"title": "Federal benefit programs; DMAS & DSS shall study technology systems used to administer.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB66",
 		"category": "Bill",
 		"introductionDate": "2025-12-30"
@@ -23642,7 +23642,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB81",
-		"title": "State agencies; amdnt. of regulations pertaining to maximum temp at which certain rooms may be kept.",
+		"title": "State agencies; amdnt. of regulations pertaining to maximum temp. at which certain rooms may be kept.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB81",
 		"category": "Bill",
 		"introductionDate": "2025-12-31"
@@ -30378,7 +30378,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB924",
-		"title": "Public Instruction, Super. of; state program to support improvement of low-preforming schools.",
+		"title": "Public Instruction, Super. of; state program to support improvement of low-performing schools.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB924",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -52638,5 +52638,85 @@
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7971017&GUID=05029258-2C4B-4057-81D9-CC51B6D7B757",
 		"category": "Resolution",
 		"introductionDate": "2026-03-24"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0652",
+		"title": "Modification Nos. M03 and M04 to Contract No. DCPL-2022-C-0027C with Ingram Library Services, LLC Approval and Payment Authorization Emergency Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0652",
+		"category": "Bill",
+		"introductionDate": "2026-04-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0653",
+		"title": "Strengthening Our Home Care Workforce Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0653",
+		"category": "Bill",
+		"introductionDate": "2026-04-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0654",
+		"title": "Medical Cannabis Beverage Product Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0654",
+		"category": "Bill",
+		"introductionDate": "2026-04-02"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0631",
+		"title": "Commission on African-American Affairs Venus Little Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0631",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0632",
+		"title": "Board of Directors of the District of Columbia Housing Finance Agency Steve Clinton Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0632",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0633",
+		"title": "Board of Directors of the District of Columbia Housing Finance Agency Edward Fisher Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0633",
+		"category": "Resolution",
+		"introductionDate": "2026-03-31"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0634",
+		"title": "Modification Nos. M03 and M04 to Contract No. DCPL-2022-C-0027C with Ingram Library Services, LLC Approval and Payment Authorization Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0634",
+		"category": "Resolution",
+		"introductionDate": "2026-04-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0635",
+		"title": "Corrections Information Council Governing Board Dr. Prechelle Shannon Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0635",
+		"category": "Resolution",
+		"introductionDate": "2026-04-02"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0636",
+		"title": "Board of Zoning Adjustment Paul Goldstein Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0636",
+		"category": "Resolution",
+		"introductionDate": "2026-04-03"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0637",
+		"title": "Council Period 26 Recess Rules Amendment Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0637",
+		"category": "Resolution",
+		"introductionDate": "2026-04-06"
 	}
 ]
