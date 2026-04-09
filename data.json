@@ -6266,7 +6266,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-SB0649",
-		"title": "Electric Vehicle Fuel Sold at Retail - Equipment Requirements, Units of Measure, Sales Price, and Fees",
+		"title": "Electric Vehicle Fuel Sold at Retail - Equipment Requirements, Units of Measure, and Fees",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0649?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-02-06"
@@ -11010,7 +11010,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-SB0556",
-		"title": "Water Companies, Sewage Disposal Companies, and Water and Sewage Disposal Companies - Rate Consolidation and Limited-Income Mechanisms",
+		"title": "Water Companies, Sewage Disposal Companies, and Water and Sewage Disposal Companies - Limited-Income Mechanisms",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0556?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-02-04"
@@ -16194,7 +16194,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-SB0313",
-		"title": "Courts - Administrative Judges - Annual Stipend",
+		"title": "Judicial and Quasi-Judicial Employees - Compensation",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0313?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-01-21"
@@ -18914,7 +18914,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-SB0165",
-		"title": "Environment - On-Site Wastewater Systems - Requirements for Inspection and Pumping Services and Implementation Dates",
+		"title": "Environment - On-Site Wastewater Systems - Implementation Dates",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0165?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -23434,7 +23434,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB55",
-		"title": "Noise abatement monitoring systems; local authorities, civil penalties.",
+		"title": "Noise abatement monitoring systems; local authorities to place and operate, civil penalties.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB55",
 		"category": "Bill",
 		"introductionDate": "2025-12-29"
@@ -26378,7 +26378,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB423",
-		"title": "Roanoke Higher Education Authority; board of trustees; reduces membership.",
+		"title": "Roanoke Higher Education Authority; board of trustees, reduces membership.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB423",
 		"category": "Bill",
 		"introductionDate": "2026-01-12"
@@ -40466,7 +40466,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB156",
-		"title": "Emergency medical services personnel; requirements for personnel without commercial drivers license.",
+		"title": "Emergency medical services personnel; requirements for personnel without commercial driver's license.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB156",
 		"category": "Bill",
 		"introductionDate": "2026-01-07"
@@ -41154,7 +41154,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB242",
-		"title": "Roanoke Higher Education Authority; board of trustees; reduces membership.",
+		"title": "Roanoke Higher Education Authority; board of trustees, reduces membership.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB242",
 		"category": "Bill",
 		"introductionDate": "2026-01-12"
@@ -52724,6 +52724,46 @@
 		"id": "DC-PR26-0638",
 		"title": "Corrections Information Council Governing Board Natasha Dasher Confirmation Resolution of 2026",
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0638",
+		"category": "Resolution",
+		"introductionDate": "2026-04-07"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1081",
+		"title": "Supplemental Appropriation #26-63 to the Fiscal Year 2026 Operating Budget Montgomery County Public Schools Individuals with Disabilities Education Act Part B Grant, $553,497",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12768",
+		"category": "Resolution",
+		"introductionDate": "2026-03-24"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1080",
+		"title": "County Executive’s Appointment to the Local Management Board for Children, Youth, and Families (Collaboration Council)",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12767",
+		"category": "Resolution",
+		"introductionDate": "2026-04-07"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1079",
+		"title": "Supplemental Appropriation #26-59 to the Fiscal Year 2026 Operating Budget Montgomery County Government - Department of Recreation Arts and Humanities Council of Montgomery County (AHCMC), $53,788.45",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12766",
+		"category": "Resolution",
+		"introductionDate": "2026-02-10"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1078",
+		"title": "Amendment to the Fiscal Year 2026 Operating Budget Montgomery County Government, Resolution 20-820, Section G Fiscal Year 2026 Designation of Entities for Non-Competitive Contract Award: EveryMind, Inc. and League of Women Voters of Montgomery County, Maryland, Inc.",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12765",
+		"category": "Resolution",
+		"introductionDate": "2026-04-07"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1077",
+		"title": "Setting a public hearing concerning the intention to consider increasing the FY 2027 property tax rate for the General Fund above the constant yield tax rate",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12764",
 		"category": "Resolution",
 		"introductionDate": "2026-04-07"
 	}
