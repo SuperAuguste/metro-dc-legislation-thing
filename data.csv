@@ -590,7 +590,7 @@ MC-Resolution 20-1037,Montgomery County,"County Executive’s Appointments to th
 MD-2026RS-HB1070,Maryland,"Department of Social and Economic Mobility - Workforce Opportunities Grant Program and Fund","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1070?ys=2026RS#",Bill,2026-02-10
 MD-2026RS-HB1078,Maryland,"Economic Development - Maryland Stadium Authority - Carroll Park Soccer Stadium and Facility","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1078?ys=2026RS#",Bill,2026-02-10
 MD-2026RS-HB1077,Maryland,"Education - Career and Technical Education - Workgroup to Study Tiered Stackable Credentials Framework","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1077?ys=2026RS#",Bill,2026-02-10
-MD-2026RS-HB1069,Maryland,"Election Law - Canvassing of Absentee Ballots - Preemption by Federal Judicial Action","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1069?ys=2026RS#",Bill,2026-02-10
+MD-2026RS-HB1069,Maryland,"Election Law - Absentee Ballots - State and Federal Requirements","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1069?ys=2026RS#",Bill,2026-02-10
 MD-2026RS-HB1071,Maryland,"Environment - Stormwater Management for Agritourism","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1071?ys=2026RS#",Bill,2026-02-10
 MC-Bill 12-26,Montgomery County,"Finance Payments to Service Providers for Persons with Developmental Disabilities","https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2899",Bill,2026-02-10
 MC-Bill 11-26,Montgomery County,"Fire and Rescue Services - Length of Service Awards Program for Volunteers - Amendments","https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2898",Bill,2026-02-10
@@ -832,7 +832,7 @@ MD-2026RS-SB0773,Maryland,"Health Occupations - Pharmacists - Vaccination Orders
 MD-2026RS-SB0917,Maryland,"Health Occupations - Practice of Audiology - Definition","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0917?ys=2026RS#",Bill,2026-02-06
 MD-2026RS-SB0874,Maryland,"Health Occupations - Social Workers - Scopes of Practice","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0874?ys=2026RS#",Bill,2026-02-06
 MD-2026RS-SB0891,Maryland,"Health, Health Insurance, and Health Occupations - Perinatal Behavioral Health Conditions","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0891?ys=2026RS#",Bill,2026-02-06
-MD-2026RS-SB0728,Maryland,"Higher Education - Community College Promise Scholarship Eligibility - Delmar High School Graduates","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0728?ys=2026RS#",Bill,2026-02-06
+MD-2026RS-SB0728,Maryland,"Higher Education - Student Financial Assistance - Alterations to Scholarship Programs","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0728?ys=2026RS#",Bill,2026-02-06
 MD-2026RS-HB0982,Maryland,"Higher Education - Tuition Exemption for Foster Care Recipients - Eligibility","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0982?ys=2026RS#",Bill,2026-02-06
 MD-2026RS-SB0864,Maryland,"Higher Education - Tuition Exemption for Foster Care Recipients - Eligibility","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0864?ys=2026RS#",Bill,2026-02-06
 MD-2026RS-SB0946,Maryland,"Historic Revitalization Tax Credit - Alterations","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0946?ys=2026RS#",Bill,2026-02-06
@@ -3206,7 +3206,7 @@ VA-20261-HB328,Virginia,"Health insurance; essential health benefits benchmark p
 VA-20261-HB329,Virginia,"Va. Residential Landlord & Tenant/manufactured Home Lot Rental Acts; retaliatory conduct prohibited.","https://lis.virginia.gov/bill-details/20261/HB329",Bill,2026-01-11
 VA-20261-HB330,Virginia,"Signs & advertisements adjacent to certain highways; signs affixed to real property owned by WMATA.","https://lis.virginia.gov/bill-details/20261/HB330",Bill,2026-01-11
 VA-20261-HB331,Virginia,"Proceedings deferred; payment of costs.","https://lis.virginia.gov/bill-details/20261/HB331",Bill,2026-01-11
-VA-20261-HB332,Virginia,"Teacher licensure; career and technical education or dual enrollment; three-year licenses.","https://lis.virginia.gov/bill-details/20261/HB332",Bill,2026-01-11
+VA-20261-HB332,Virginia,"Teacher licensure; career and technical education or dual enrollment, three-year licenses.","https://lis.virginia.gov/bill-details/20261/HB332",Bill,2026-01-11
 VA-20261-HB333,Virginia,"Public schools; programs and courses of instruction; instruction on January 6 insurrection.","https://lis.virginia.gov/bill-details/20261/HB333",Bill,2026-01-11
 VA-20261-HB334,Virginia,"Additional local sales and use tax to support schools; referendum.","https://lis.virginia.gov/bill-details/20261/HB334",Bill,2026-01-11
 VA-20261-HB335,Virginia,"Independent Pharmacy Access and Resilience Pilot Program; established, report, sunset.","https://lis.virginia.gov/bill-details/20261/HB335",Bill,2026-01-11
@@ -5103,9 +5103,9 @@ VA-20261-SB197,Virginia,"Virginia Community Flood Preparedness Fund; loan and gr
 VA-20261-SB198,Virginia,"Individuals with developmental or intellectual disabilities; admissibility of statements.","https://lis.virginia.gov/bill-details/20261/SB198",Bill,2026-01-09
 VA-20261-SB199,Virginia,"Employment; paid sick leave, civil penalties.","https://lis.virginia.gov/bill-details/20261/SB199",Bill,2026-01-09
 VA-20261-SB200,Virginia,"SOL assessments and related assessment methods; development, administration, scoring, and release.","https://lis.virginia.gov/bill-details/20261/SB200",Bill,2026-01-09
-VA-20261-SB201,Virginia,"Consumer Data Protection Act; protections for children; definitions. ","https://lis.virginia.gov/bill-details/20261/SB201",Bill,2026-01-09
+VA-20261-SB201,Virginia,"Consumer Data Protection Act; protections for children, definitions. ","https://lis.virginia.gov/bill-details/20261/SB201",Bill,2026-01-09
 VA-20261-SB202,Virginia,"Elections; filling vacancies in county and city governing bodies.","https://lis.virginia.gov/bill-details/20261/SB202",Bill,2026-01-09
-VA-20261-SB203,Virginia,"Teacher licensure; career and technical education or dual enrollment; three-year licenses.","https://lis.virginia.gov/bill-details/20261/SB203",Bill,2026-01-09
+VA-20261-SB203,Virginia,"Teacher licensure; career and technical education or dual enrollment, three-year licenses.","https://lis.virginia.gov/bill-details/20261/SB203",Bill,2026-01-09
 VA-20261-SB204,Virginia,"License plates, special; issuance to members of Virginia REALTORS, fees collected.","https://lis.virginia.gov/bill-details/20261/SB204",Bill,2026-01-09
 VA-20261-SB205,Virginia,"Early Intervention Program for Infants and Toddlers with Disabilities; program extension.","https://lis.virginia.gov/bill-details/20261/SB205",Bill,2026-01-09
 VA-20261-SB206,Virginia,"Juvenile and domestic relations district courts; petitions for relief of care and custody.","https://lis.virginia.gov/bill-details/20261/SB206",Bill,2026-01-09
