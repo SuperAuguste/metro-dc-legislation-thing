@@ -6226,7 +6226,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-SB0670",
-		"title": "Election Law - Authority at Polling Places - Revisions",
+		"title": "Election Law - Authority at Polling Places, Early Voting Centers, and Counting Centers - Revisions",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0670?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-02-06"
@@ -14954,7 +14954,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-HB0467",
-		"title": "Correctional Services - Maryland Parole Commission - Improvements in Transparency and Equity",
+		"title": "Correctional Services - Maryland Parole Commission and Erroneously Convicted Individuals - Improvements in Transparency and Equity",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0467?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-01-23"
@@ -52774,5 +52774,45 @@
 		"link": "https://lims.dccouncil.gov/Legislation/B26-0655",
 		"category": "Bill",
 		"introductionDate": "2026-04-06"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-032-2026",
+		"title": "AN ACT CONCERNING HOUSING AND PROPERTY STANDARDS FOR NON-RESIDENTIAL PROPERTY for the purpose of amending the Prince George’s County Code to increase penalties for non-residential property for non-compliance with housing and property standards; an increase of up to five thousand dollars for non-compliance; and generally relating to housing and property standards in Prince George’s County.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7978130&GUID=981C83F6-A65A-4E37-A5AB-72F006E4F94F",
+		"category": "Council Bill",
+		"introductionDate": "2026-03-05"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-033-2026",
+		"title": "AN EMERGENCY ACT CONCERNING VEHICLE ACCESS AND RECOVERY ACT for the purpose of providing for redemption of a certain vehicle on posted private property and on public and private property; requiring proof of ownership or control of a vehicle; providing for indemnification; providing for prohibited conduct and penalty regarding impoundment; providing for notice to a family member or household member of a vehicle owner; providing for a certain emergency; and generally regarding vehicle access and recovery.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7978134&GUID=10CB499A-65FA-4F29-B1F6-E31DDC00BF8C",
+		"category": "Council Bill",
+		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-026-2026",
+		"title": "A RESOLUTION CONCERNING COUNTY COUNCIL RULES OF PROCEDURE for the purpose of amending Rules of Procedure for the County Council.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7978135&GUID=C14B057C-FF21-408A-B132-87B124C90A26",
+		"category": "Resolution",
+		"introductionDate": "2026-03-06"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-027-2026",
+		"title": "A RESOLUTION CONCERNING 2010 APPROVED MASTER PLAN FOR SUBREGION 1 - MINOR MASTER PLAN AND SECTIONAL MAP AMENDMENT - INITIATION for the purpose of initiating, pursuant to the local zoning laws for that portion of the Maryland-Washington Regional District situated in Prince George’s County, Maryland, minor amendments to the 2010 Approved Master Plan for Subregion 1 - in particular, to evaluate and potentially update certain recommendations for the physical development and redevelopment of certain portions of Planning Areas 60, 61, and 62 in order to align with Plan Prince George’s 2035 (Plan 2035) recommendations for the Muirkirk MARC Neighborhood Cetner, the Konterra Local Town Center, and the Innovation Corridor - and initiating a concurrent Sectional Map Amendment for a portion of Planning Areas 60, 61, and 62.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7978189&GUID=37CD422D-EB95-49FD-8E73-F6088FFA4166",
+		"category": "Resolution",
+		"introductionDate": "2026-04-08"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-028-2026",
+		"title": "A RESOLUTION CONCERNING 2013 APPROVED SUBREGION 5 MASTER PLAN AND SECTIONAL MAP AMENDMENT - MINOR MASTER PLAN AMENDMENT AND SECTIONAL MAP AMENDMENT - INITIATION for the purpose of initiating, pursuant to the local zoning laws for that portion of the Maryland-Washington Regional District situated in Prince George’s County, Maryland, minor amendments to the 2013 Approved Subregion 5 Master Plan and Sectional Map Amendment - in particular, to update specific recommendations for the physical development and redevelopment of portions of Planning Areas 81A, 81B, 83, 84 and 85A in order to align with Plan Prince George’s 2035 (Plan 2035) recommendations for the Brandywine Town Activity Center, and to incorporate the recommendations of the Medical Innovation Campus Feasibility Study that are relevant to the Sector Plan - and initiating a concurrent Sectional Map Amendment for portions of Planning Areas 81A, 81B, 83, 84 and 85A.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7978137&GUID=288419C4-54D7-4425-A07D-18A7BA5BA646",
+		"category": "Resolution",
+		"introductionDate": "2026-04-08"
 	}
 ]
