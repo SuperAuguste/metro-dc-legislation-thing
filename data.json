@@ -27970,7 +27970,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB622",
-		"title": "Advanced practice registered nurses; authorization to practice without a practice agreement.",
+		"title": "Advanced practice registered nurses; authorization to practice without a practice agreement, etc.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB622",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -31362,7 +31362,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1047",
-		"title": "Virginia War Memorial Foundation; removes obsolete language authorizing DVS to provide supervision.",
+		"title": "Va. War Memorial Foundation; Commissioner of Dept. of Veterans Services shall provide supervision.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1047",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -40114,7 +40114,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB112",
-		"title": "Virginia War Memorial Foundation; removes obsolete language authorizing DVS to provide supervision.",
+		"title": "Va. War Memorial Foundation; Commissioner of Dept. of Veterans Services shall provide supervision.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB112",
 		"category": "Bill",
 		"introductionDate": "2026-01-04"
@@ -42938,7 +42938,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB465",
-		"title": "Retail Sales and Use tax; exemption for data centers.",
+		"title": "Retail Sales and Use Tax; exemption for data centers.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB465",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -52822,5 +52822,45 @@
 		"link": "https://lims.dccouncil.gov/Legislation/B26-0656",
 		"category": "Bill",
 		"introductionDate": "2026-04-09"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0657",
+		"title": "Housing Opportunity, Mobility, Equity, and Stability (HOMES) Omnibus Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0657",
+		"category": "Bill",
+		"introductionDate": "2026-04-10"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0658",
+		"title": "Fiscal Year 2027 Federal Portion Budget Request Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0658",
+		"category": "Bill",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0659",
+		"title": "Fiscal Year 2027 Local Budget Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0659",
+		"category": "Bill",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0660",
+		"title": "Fiscal Year 2027 Local Budget Emergency Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0660",
+		"category": "Bill",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0639",
+		"title": "Fiscal Year 2027 Local Budget Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0639",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
 	}
 ]
