@@ -28474,7 +28474,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB686",
-		"title": "Open school enrollment policies; available to school boards.",
+		"title": "Open school enrollment policies; guidance on best practices available to school boards.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB686",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -28570,7 +28570,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB698",
-		"title": "Virginia Workforce Development and Career Connection and Training Foundation and Fund; established, ",
+		"title": "Virginia Workforce Development and Career Connection and Training Foundation and Fund; established.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB698",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -33250,7 +33250,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1283",
-		"title": "High school grad. requirements & diploma pathways; implementation.",
+		"title": "High school graduation requirements and diploma pathways; implementation.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1283",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -33970,7 +33970,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1373",
-		"title": "Regional special ed.; DOE to assess enhancements &strategies to maximize use of funds for students.",
+		"title": "Regional special ed.; DOE to assess enhancements & strategies to maximize use of funds for students.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1373",
 		"category": "Bill",
 		"introductionDate": "2026-01-20"
@@ -45010,7 +45010,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB724",
-		"title": "High school grad. requirements & diploma pathways; implementation.",
+		"title": "High school graduation requirements and diploma pathways; implementation.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB724",
 		"category": "Bill",
 		"introductionDate": "2026-01-15"
@@ -52869,6 +52869,30 @@
 		"title": "Fiscal Year 2027 Budget Support Act of 2026",
 		"link": "https://lims.dccouncil.gov/Legislation/B26-0661",
 		"category": "Bill",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1084",
+		"title": "County Executive’s Appointments to the Workforce Development Board",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12771",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1083",
+		"title": "County Executive’s Appointment to the Local Management Board for Children, Youth, and Families (Collaboration Council)",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12770",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1082",
+		"title": "Renewal of Council Contract for Audit Services",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12769",
+		"category": "Resolution",
 		"introductionDate": "2026-04-14"
 	}
 ]
