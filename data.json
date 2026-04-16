@@ -28146,7 +28146,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB644",
-		"title": "FOIA; exemption for records of minors participating in certain programs run by state bodies.",
+		"title": "FOIA; exemption for records of minors participating in certain programs run by state public bodies.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB644",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -28162,7 +28162,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB646",
-		"title": "Green warning lights; certain farm vehicles.",
+		"title": "Green warning lights; certain farm vehicles may be equipped with and use.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB646",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -28242,7 +28242,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB656",
-		"title": "Mental health & substance abuse disorders; network adequacy standards, comparative analyses, report.",
+		"title": "Mental health & substance abuse disorders; network adequacy standards, comparative analyses.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB656",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -52861,6 +52861,14 @@
 		"title": "Fiscal Year 2027 Local Budget Emergency Declaration Resolution of 2026",
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0639",
 		"category": "Resolution",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0661",
+		"title": "Fiscal Year 2027 Budget Support Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0661",
+		"category": "Bill",
 		"introductionDate": "2026-04-14"
 	}
 ]
