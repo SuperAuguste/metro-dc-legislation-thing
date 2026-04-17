@@ -51794,7 +51794,7 @@
 	{
 		"jurisdiction": "Prince George's County",
 		"id": "PG-CB-024-2026",
-		"title": "AN ACT CONCERNING THE VETERAN OWNED BUSINESS ENTERPRISE OPPORTUNITIES PROGRAM for the purpose of facilitating procurement opportunities for businesses located in Prince George’s County that are owned by veterans of the United States Armed Forces.",
+		"title": "AN ACT CONCERNING THE SERVICE DISABLED VETERAN OWNED BUSINESS ACT for the purpose of facilitating procurement opportunities for businesses located in Prince George’s County that are owned by veterans of the United States Armed Forces.",
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7956782&GUID=6AE063B3-73F1-49E7-8EF0-B2F305E12B70",
 		"category": "Council Bill",
 		"introductionDate": "2026-02-23"
@@ -51810,7 +51810,7 @@
 	{
 		"jurisdiction": "Prince George's County",
 		"id": "PG-CB-026-2026",
-		"title": "AN ACT CONCERNING LOCALLY-OWNED AND OPERATED BUSINESS ASSISTANCE for the purpose of establishing a locally-owned and operated business certification, streamlining certifications for diverse local businesses, clarifying procurement bonus points and preferences, and generally relating to certification requirements and standards for diverse local businesses.",
+		"title": "AN ACT CONCERNING LOCALLY-OWNED AND OPERATED BUSINESS ASSISTANCE for the purpose of establishing a locally-owned and operated business preference, streamlining certifications for diverse local businesses, clarifying procurement bonus points and preferences, and generally relating to certification requirements and standards for diverse local businesses.",
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7956783&GUID=E237DAC5-0EB2-44A9-BDA3-67716443B045",
 		"category": "Council Bill",
 		"introductionDate": "2026-03-13"
@@ -52894,5 +52894,13 @@
 		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12769",
 		"category": "Resolution",
 		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-029-2026",
+		"title": "A RESOLUTION CONCERNING THE 2018 WATER AND SEWER PLAN (DECEMBER 2025 CYCLE OF AMENDMENTS) for the purpose of changing the water and sewer category designations of properties within the 2018 Water and Sewer Plan.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7986195&GUID=BC6467E4-A7A1-4089-9DC4-C2CEACDD6F1E",
+		"category": "Resolution",
+		"introductionDate": "2026-03-25"
 	}
 ]
