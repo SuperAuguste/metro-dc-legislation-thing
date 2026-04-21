@@ -30810,7 +30810,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB978",
-		"title": "Retail Sales and Use Tax; taxation on various services, include digital personal property.",
+		"title": "Retail Sales and Use Tax; taxation on various services, includes digital personal property.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB978",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -30826,7 +30826,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB980",
-		"title": "Alcoholic beverage control; voluntary no-buy program court-ordered inclusion on list of excluded persons.",
+		"title": "Alcoholic beverage control; voluntary no-buy program, etc.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB980",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -44338,7 +44338,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB640",
-		"title": "Child abuse or neglect; centralized hotline system for reports or complaints, etc.",
+		"title": "Child abuse or neglect; centralized hotline for reports or complaints, etc.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB640",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -52902,5 +52902,117 @@
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7986195&GUID=BC6467E4-A7A1-4089-9DC4-C2CEACDD6F1E",
 		"category": "Resolution",
 		"introductionDate": "2026-03-25"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0662",
+		"title": "Fiscal Year 2026 Revised Local Budget Emergency Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0662",
+		"category": "Bill",
+		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0663",
+		"title": "Fiscal Year 2026 Revised Local Budget Temporary Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0663",
+		"category": "Bill",
+		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0664",
+		"title": "Certified Business Enterprise Program Compliance and Enforcement Support Emergency Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0664",
+		"category": "Bill",
+		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0665",
+		"title": "Certified Business Enterprise Program Compliance and Enforcement Support Temporary Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0665",
+		"category": "Bill",
+		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0666",
+		"title": "Soul of the City Business Improvement District Congressional Review Emergency Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0666",
+		"category": "Bill",
+		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0667",
+		"title": "Surveillance Pricing Prohibition Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0667",
+		"category": "Bill",
+		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0640",
+		"title": "Fiscal Year 2026 Revised Local Budget Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0640",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0641",
+		"title": "Board of Directors of the District of Columbia Housing Finance Agency Carri Robinson Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0641",
+		"category": "Resolution",
+		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0642",
+		"title": "Police Complaints Board Glenn Marcus Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0642",
+		"category": "Resolution",
+		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0643",
+		"title": "Police Complaints Board Dr. Andrea Headley Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0643",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0644",
+		"title": "Police Complaints Board Bobbi Strang Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0644",
+		"category": "Resolution",
+		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0645",
+		"title": "Police Complaints Board Edward Sanders Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0645",
+		"category": "Resolution",
+		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0646",
+		"title": "Certified Business Enterprise Program Compliance and Enforcement Support Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0646",
+		"category": "Resolution",
+		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0647",
+		"title": "Soul of the City Business Improvement District Congressional Review Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0647",
+		"category": "Resolution",
+		"introductionDate": "2026-04-20"
 	}
 ]
