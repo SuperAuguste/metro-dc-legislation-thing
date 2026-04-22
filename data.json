@@ -25322,7 +25322,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB291",
-		"title": "Fishing tackle recycling and disposal; educational webpage, report.",
+		"title": "Fishing tackle recycling and disposal; educational webpage.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB291",
 		"category": "Bill",
 		"introductionDate": "2026-01-09"
@@ -26394,7 +26394,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB425",
-		"title": "Pregnant and postpartum patients; reimbursement for remote monitoring services through pregnancy.",
+		"title": "Pregnant and postpartum patients; reimbursement for remote monitoring services.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB425",
 		"category": "Bill",
 		"introductionDate": "2026-01-12"
@@ -32794,7 +32794,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1226",
-		"title": "Motor Vehicles, Department of;  release of data to certain institutions of higher education, fees.",
+		"title": "Motor Vehicles, Department of;  release of data to certain institutions of higher education, fee.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1226",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -33042,7 +33042,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1257",
-		"title": "Law-enforcement agencies; use of certain technologies & interrogation practices; forensic laboratory",
+		"title": "Law-enforcement agencies; use of certain technologies & interrogation practices; forensic lab.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1257",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -34874,7 +34874,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1486",
-		"title": "Public schools; student instruction; addictive potential of time spent using certain electr. device.",
+		"title": "Public schools; student instruction, addictive potential of time spent using certain electr. device.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1486",
 		"category": "Bill",
 		"introductionDate": "2026-01-23"
@@ -42778,7 +42778,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB445",
-		"title": "Motor Vehicles, Department of;  release of data to certain institutions of higher education, fees.",
+		"title": "Motor Vehicles, Department of;  release of data to certain institutions of higher education, fee.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB445",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -43762,7 +43762,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB568",
-		"title": "Public schools; addictive potential of time spent using certain electronic devices.",
+		"title": "Public schools; student instruction, addictive potential of time spent using certain electr. device.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB568",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -45506,7 +45506,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB786",
-		"title": "Income tax, state and corporate; microchip & semiconductor manufacturing & supply chain tax credits",
+		"title": "Income tax, state and corporate; microchip & semiconductor manufacturing & supply chain tax credits.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB786",
 		"category": "Bill",
 		"introductionDate": "2026-01-23"
@@ -45754,7 +45754,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB817",
-		"title": "School bds; parental notification of course registration deadlines and processes required, policies.",
+		"title": "School bds.; parental notification of course registration deadlines and processes required, policies.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB817",
 		"category": "Bill",
 		"introductionDate": "2026-01-23"
@@ -53014,5 +53014,77 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0647",
 		"category": "Resolution",
 		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR2001",
+		"title": "Commending Brigadier General Terrence A. Adams, USAF.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR2001",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-04-22"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR2002",
+		"title": "Commending the University of Mary Washington men's basketball team.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR2002",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-04-22"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR2003",
+		"title": "Celebrating the life of Chief Master Sergeant John Patrick Armstrong, USAF, Ret.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR2003",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-04-22"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR2004",
+		"title": "Commending St. John Baptist Church of Woodford.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR2004",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-04-22"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR2005",
+		"title": "Commending the LEADE Foundation.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR2005",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-04-22"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR2006",
+		"title": "Commending the Omicron Alpha Lambda Chapter of Alpha Phi Alpha Fraternity, Inc.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR2006",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-04-22"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR2007",
+		"title": "Commending the Petersburg High School boys' basketball team.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR2007",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-04-22"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR2008",
+		"title": "Commending Merrill Morgan.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR2008",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-04-22"
+	},
+	{
+		"jurisdiction": "Virginia",
+		"id": "VA-20261-HR2009",
+		"title": "Commending Land of Promise Church.",
+		"link": "https://lis.virginia.gov/bill-details/20261/HR2009",
+		"category": "Joint Resolution",
+		"introductionDate": "2026-04-22"
 	}
 ]
