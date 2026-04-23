@@ -28594,7 +28594,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB701",
-		"title": "Health and insurance; notice of adverse determinations.",
+		"title": "Health and insurance; notice of adverse determination.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB701",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -33634,7 +33634,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1331",
-		"title": "School division accessibility challenges and barriers; summary, and plan, report.",
+		"title": "School division accessibility challenges and barriers; summary and plan, report.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1331",
 		"category": "Bill",
 		"introductionDate": "2026-01-18"
@@ -34026,7 +34026,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1380",
-		"title": "Individuals with developmental disabilities; provides to conduct emergency medical drills, etc.",
+		"title": "Individuals with developmental disabilities; providers to conduct emergency medical drills, etc.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1380",
 		"category": "Bill",
 		"introductionDate": "2026-01-21"
@@ -53086,5 +53086,77 @@
 		"link": "https://lis.virginia.gov/bill-details/20261/HR2009",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-04-22"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1093",
+		"title": "Supplemental Appropriation #26-64 to the FY26 Operating Budget\nMontgomery County Government – Department of Health and Human Services Continuum of Care (CoC) Planning Activities Grant, $502,167 (Source of Funds: Federal Grant)",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12780",
+		"category": "Resolution",
+		"introductionDate": "2026-04-07"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1092",
+		"title": "Supplemental Appropriation #26-56 to the FY26 Operating Budget Montgomery County Government Office of Food Systems Resilience (OFSR) FY26 Food Aggregation Grant Program, $300,000",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12779",
+		"category": "Resolution",
+		"introductionDate": "2026-04-07"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1091",
+		"title": "County Executive’s Appointments to the Silver Spring Urban District Advisory Committee",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12778",
+		"category": "Resolution",
+		"introductionDate": "2026-04-21"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1090",
+		"title": "County Executive’s Appointment to the Interagency Commission on Homelessness",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12777",
+		"category": "Resolution",
+		"introductionDate": "2026-04-21"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1089",
+		"title": "County Executive’s Appointments to the Community Action Board",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12776",
+		"category": "Resolution",
+		"introductionDate": "2026-04-21"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1088",
+		"title": "County Executive’s Appointment to the Animal Services Advisory Committee",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12775",
+		"category": "Resolution",
+		"introductionDate": "2026-04-21"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1087",
+		"title": "Amendment to the FY25-30 Capital Improvements Program and Supplemental Appropriation #26-62 to the FY26 Capital Budget Montgomery County Government Department of General Services Poolesville Highway Depot (No. 502611), $500,000",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12774",
+		"category": "Resolution",
+		"introductionDate": "2026-03-24"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1086",
+		"title": "Authorization to File Application for FY 2027 Annual Transportation Plan Grant",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12773",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1085",
+		"title": "Resolution to Appoint Special Counsel, Nidel & Nace, P.L.L.C., to Assist with Consumer Protection Cases",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12772",
+		"category": "Resolution",
+		"introductionDate": "2026-04-21"
 	}
 ]
