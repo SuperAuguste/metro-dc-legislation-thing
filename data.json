@@ -28602,7 +28602,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB702",
-		"title": "Local law-enforcement agencies; firearm give-back or buy-back programs.",
+		"title": "Local law-enforcement agencies; firearm give-back or sell-back programs.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB702",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -28674,7 +28674,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB711",
-		"title": "Solar facilities; local regulation, special exceptions.",
+		"title": "Solar facilities; local regulation, permits, special exceptions.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB711",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -41994,7 +41994,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB347",
-		"title": "Solar facilities; local regulation, special exceptions.",
+		"title": "Solar facilities; local regulation, permits, special exceptions.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB347",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -53326,5 +53326,61 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0667",
 		"category": "Resolution",
 		"introductionDate": "2026-04-21"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-035-2026",
+		"title": "AN ORDINANCE CONCERNING USE REGULATIONS - DAY CARE CENTERS FOR CHILDREN for the purpose of increasing access to childcare facilities by eliminating special exception approval for day care centers for children in all zones; exempting day care centers for children from detailed site plan approval; providing for community notification of proposed day care centers; removing minimum parking requirements in all transit-oriented zones; reducing minimum parking requirements in certain activity zones; and providing for alternative parking compliance in all other zones.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7992559&GUID=42FB3A89-A84C-4CB3-B14A-3EDD5C5ED409",
+		"category": "Council Bill",
+		"introductionDate": "2026-01-09"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-034-2026",
+		"title": "AN ORDINANCE CONCERNING CORRECTIONS FACILITY, DETENTION CENTER, AND PRISON - DEFINITIONS for the purpose of adding definitions of certain uses to clarify existing language related to prohibited uses; and generally related to interpretation and definitions in the Zoning Ordinance.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7992319&GUID=68B7B0FD-025F-410C-9AF0-1922D5D120E3",
+		"category": "Council Bill",
+		"introductionDate": "2026-01-16"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-032-2026",
+		"title": "A RESOLUTION CONCERNING COUNTY COUNCIL BUDGET PARITY for the purpose of ensuring that each County Council Member’s office receives equal resources with respect to its annual budget allotment.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7992580&GUID=D2B4C9C1-53BF-4DED-B5DD-1FC2860D851C",
+		"category": "Resolution",
+		"introductionDate": "2026-02-23"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-030-2026",
+		"title": "A RESOLUTION CONCERNING FIBROID HEALTHCARE SUPPORT for the purpose of increasing public awareness and early diagnosis of fibroids; encouraging expanded access to screening and early detection of fibroids; improving local understanding of the disease; encouraging assistance for women in navigating care and treatment options; and encouraging the expansion of treatment access.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7992581&GUID=43F63B69-518C-4DD6-8BC3-4CD0477C5E50",
+		"category": "Resolution",
+		"introductionDate": "2026-03-25"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-036-2026",
+		"title": "AN ACT CONCERNING WOMEN’S HEALTH WORKPLACE PROTECTIONS for the purpose of protecting County employees and employees of County contractors experiencing severe menstrual or uterine fibroid-related symptoms.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7992560&GUID=D121EBE7-FDCA-44D6-998D-5C45AE03BF20",
+		"category": "Council Bill",
+		"introductionDate": "2026-03-25"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0668",
+		"title": "Public Service Commission Emile Thompson Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0668",
+		"category": "Resolution",
+		"introductionDate": "2026-04-22"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0669",
+		"title": "Public Service Commission Ted Trabue, Jr. Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0669",
+		"category": "Resolution",
+		"introductionDate": "2026-04-22"
 	}
 ]
