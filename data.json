@@ -25698,7 +25698,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB338",
-		"title": "Building Service employees; authority of local governments, definition.",
+		"title": "Service employees; authority of local governments, definition.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB338",
 		"category": "Bill",
 		"introductionDate": "2026-01-12"
@@ -30090,7 +30090,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB888",
-		"title": "Minimum off-street parking requirements; definitions, designated areas, administrative reductions.",
+		"title": "Minimum off-street parking requirements; definitions, administrative reductions.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB888",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -31226,7 +31226,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1030",
-		"title": "Parole; discretionary criteria guidelines.",
+		"title": "Parole; discretionary criteria guidelines, delayed effective date.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1030",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -31282,7 +31282,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1037",
-		"title": "Instructional materials on climate change & environtl. literacy; model pol. & proced. for selection.",
+		"title": "Science SOL & Curriculum Framework; instructional material to include climate change, etc.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1037",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -42762,7 +42762,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB443",
-		"title": "Siting of battery energy storage projects; commercial solar photovoltaic generation facilities.",
+		"title": "Siting of battery energy storage projects; commercial solar photovoltaic generation facilities, etc.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB443",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -53382,5 +53382,13 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0669",
 		"category": "Resolution",
 		"introductionDate": "2026-04-22"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 18-26",
+		"title": "Bill 18-26, Police - Powers and duties of director - DHS law enforcement agency hiring",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2906",
+		"category": "Bill",
+		"introductionDate": "2026-04-28"
 	}
 ]
