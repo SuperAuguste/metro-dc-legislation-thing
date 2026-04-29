@@ -34002,7 +34002,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1377",
-		"title": "Virginia Military Institute; establishing a task force to examine higher education at the Institute.",
+		"title": "VMI; Bd. of Visitors to examine higher education at the Institute.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1377",
 		"category": "Bill",
 		"introductionDate": "2026-01-21"
@@ -53462,5 +53462,13 @@
 		"link": "https://lims.dccouncil.gov/Legislation/CER26-0155",
 		"category": "Resolution",
 		"introductionDate": "2026-04-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0156",
+		"title": "Diji Omisore Ceremonial Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0156",
+		"category": "Resolution",
+		"introductionDate": "2026-04-28"
 	}
 ]
