@@ -30490,7 +30490,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB938",
-		"title": "Publicly owned treatment works; monitoring of PFAS.",
+		"title": "PFAS monitoring; DEQ to require for industrial wastewater source, publicly owned treatment works.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB938",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -40618,7 +40618,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB175",
-		"title": "Electric utilities; amends renewable energy portfolio standard program requirements, etc.",
+		"title": "Renewable energy portfolio standard program; requirements, power purchase agreements.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB175",
 		"category": "Bill",
 		"introductionDate": "2026-01-08"
@@ -49114,7 +49114,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SJ214",
-		"title": "Commending James C. Wright Funeral Home and Crematory, Inc.",
+		"title": "Commending James C. Wright Funeral Home & Crematory, Inc.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SJ214",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-03-09"
@@ -53301,7 +53301,7 @@
 		"title": "Commission on Human Rights Jordyn White Confirmation Resolution of 2026",
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0664",
 		"category": "Resolution",
-		"introductionDate": "2026-05-05"
+		"introductionDate": "2026-04-21"
 	},
 	{
 		"jurisdiction": "District of Columbia",
@@ -53606,5 +53606,61 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0680",
 		"category": "Resolution",
 		"introductionDate": "2026-04-27"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0672",
+		"title": "Volunteer Services Clarification Emergency Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0672",
+		"category": "Bill",
+		"introductionDate": "2026-04-30"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0673",
+		"title": "Volunteer Services Clarification Temporary Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0673",
+		"category": "Bill",
+		"introductionDate": "2026-04-30"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0674",
+		"title": "Strengthening Probate Administration Emergency Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0674",
+		"category": "Bill",
+		"introductionDate": "2026-04-30"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0675",
+		"title": "Strengthening Probate Administration Temporary Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0675",
+		"category": "Bill",
+		"introductionDate": "2026-04-30"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0157",
+		"title": "Romaine B. Thomas Posthumous Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0157",
+		"category": "Resolution",
+		"introductionDate": "2026-04-29"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0681",
+		"title": "Volunteer Services Clarification Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0681",
+		"category": "Resolution",
+		"introductionDate": "2026-04-30"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0682",
+		"title": "Strengthening Probate Administration Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0682",
+		"category": "Resolution",
+		"introductionDate": "2026-04-30"
 	}
 ]
