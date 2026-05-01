@@ -35418,7 +35418,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HJ28",
-		"title": "Hampton Rds; joint subcommittee to study public transit systems to ensure it meets needs of region.",
+		"title": "Hampton Rds.; joint subcommittee to study public transit systems to ensure it meets needs of region.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HJ28",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-01-13"
@@ -47554,7 +47554,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SR17",
-		"title": "Judges; nomination to the Virginia Workers Compensation Commission.",
+		"title": "Judges; nomination to the Virginia Workers' Compensation Commission.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SR17",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-01-21"
@@ -53662,5 +53662,13 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0682",
 		"category": "Resolution",
 		"introductionDate": "2026-04-30"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0676",
+		"title": "Clarifying Licensing Enriching All Neighbors (CLEAN) Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0676",
+		"category": "Bill",
+		"introductionDate": "2026-04-29"
 	}
 ]
