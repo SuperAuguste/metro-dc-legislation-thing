@@ -50442,7 +50442,7 @@
 	{
 		"jurisdiction": "Prince George's County",
 		"id": "PG-CB-020-2026",
-		"title": "AN ORDINANCE CONCERNING ADMINISTRATION - PRE-APPLICATION NEIGHBORHOOD MEETINGS - TRANSPARENCY IN LAND USE for the purpose of requiring the Planning Department to publish on its website a searchable database of informational notifications of pre-application neighborhood meetings; and ensuring that electronic versions of the informational notifications comply with web accessibility guidelines.",
+		"title": "AN ORDINANCE CONCERNING ADMINISTRATION - PRE-APPLICATION NEIGHBORHOOD MEETINGS - TRANSPARENCY IN LAND USE for the purpose of requiring the Planning Department to publish on its website a searchable database of informational notifications of pre-application neighborhood meetings; and ensuring that electronic versions of the informational notifications comply with ADA accessibility guidelines.",
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7948658&GUID=AC75E03C-C32D-4BA1-98C1-CF57DB729729",
 		"category": "Council Bill",
 		"introductionDate": "2026-01-12"
@@ -53669,6 +53669,46 @@
 		"title": "Clarifying Licensing Enriching All Neighbors (CLEAN) Amendment Act of 2026",
 		"link": "https://lims.dccouncil.gov/Legislation/B26-0676",
 		"category": "Bill",
+		"introductionDate": "2026-04-29"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-033-2026",
+		"title": "A RESOLUTION CONCERNING QUANTUM SCIENCE WORKFORCE DEVELOPMENT for the purpose of expressing support for efforts to advance and strengthen the quantum science and technology workforce in Prince George’s County; encouraging collaboration among educational institutions, workforce development organizations, employers, public agencies, and other stakeholders to identify and support opportunities for training, mentorship, curriculum alignment, apprenticeship, and career pathway development in quantum-related fields; urging relevant stakeholders to convene informally to discuss strategies for preparing County residents and students for employment and advancement in the emerging quantum science economy; and generally relating to workforce development and economic opportunity in Prince George’s County.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8000222&GUID=82049352-D9EA-4BB6-AB29-9AA31669329A",
+		"category": "Resolution",
+		"introductionDate": "2026-03-25"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-038-2026",
+		"title": "AN ACT CONCERNING IMPERSONATION OF UTILITY COMPANIES AND GOVERNMENT AGENCIES for the purpose of amending the Prince George’s County code to supplement existing law that prohibits a person from falsely representing that a person is, or is acting on behalf of, a utility company or any local, state, or federal government; providing penalties for those violations; and generally relating to consumer protections and unlawful practices.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8000186&GUID=987B908D-E01F-4C2D-ADD7-26738E8E02CA",
+		"category": "Council Bill",
+		"introductionDate": "2026-04-06"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-039-2026",
+		"title": "AN ACT CONCERNING THE ELECTION DAY HOLIDAY for the purpose of allowing for the general election day to be designated as a holiday for the County government to give its employees the day off of work for voting.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8000187&GUID=32805068-F860-4EC2-B052-E47368EC7727",
+		"category": "Council Bill",
+		"introductionDate": "2026-04-08"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-034-2026",
+		"title": "A RESOLUTION CONCERNING STOP SIGN MONITORING SYSTEMS - CITY OF NEW CARROLLTON for the purpose of providing County Council approval of locations for stop sign monitoring systems in the City of New Carrollton and generally regarding stop sign monitoring systems.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8000241&GUID=92F69C7C-1311-4174-B1FE-0EA4E6309340",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-035-2026",
+		"title": "A RESOLUTION CONCERNING 2013 CENTRAL BRANCH AVENUE CORRIDOR REVITALIZATION SECTOR PLAN-MINOR MASTER PLAN AMENDMENT AND SECTIONAL MAP AMENDMENT-INITIATION \r\nfor the purpose of initiating, pursuant to the local zoning laws for that portion of the Maryland-Washington Regional District situated in Prince George's County, Maryland, a minor amendment to the 2013 Central Branch Avenue Corridor Revitalization Sector Plan-in particular, to incorporate the recommendations of the Medical Innovation Campus Feasibility Study that are relevant to the Sector Plan, and to remove specific policies and strategies from the 2013 Central Branch Avenue Corridor Revitalization Sector Plan that were inserted into the 2014 Approved Southern Green Line Station Area Sector Plan upon the passage of CR-103-2023 by the Prince George's County Council, sitting as the District Council-and initiating a concurrent Sectional Map Amendment for the 2013 Approved Central Branch Avenue Corridor Revitalization Sector Plan area.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8000244&GUID=1D66A7BC-C88E-4E05-AB29-498DF05CFF1F",
+		"category": "Resolution",
 		"introductionDate": "2026-04-29"
 	}
 ]
