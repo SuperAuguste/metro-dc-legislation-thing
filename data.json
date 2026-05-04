@@ -53742,5 +53742,141 @@
 		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2907",
 		"category": "Bill",
 		"introductionDate": "2026-05-05"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0677",
+		"title": "Personal Delivery Device Weight Limit Emergency Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0677",
+		"category": "Bill",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0678",
+		"title": "Personal Delivery Device Weight Limit Temporary Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0678",
+		"category": "Bill",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0679",
+		"title": "DC Water and Sewer Authority Billing and Disconnection Clarification Emergency Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0679",
+		"category": "Bill",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0680",
+		"title": "DC Water and Sewer Authority Billing and Disconnection Clarification Temporary Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0680",
+		"category": "Bill",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0681",
+		"title": "Reservoir District Tax Exemption Emergency Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0681",
+		"category": "Bill",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0682",
+		"title": "Reservoir District Tax Exemption Temporary Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0682",
+		"category": "Bill",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0683",
+		"title": "Modification No. 4 to Multiyear Contract No. CW91301 with Thales DIS USA, Inc. Approval and Payment Authorization Emergency Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0683",
+		"category": "Bill",
+		"introductionDate": "2026-05-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0684",
+		"title": "Autonomous Vehicle Deployment Authorization Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0684",
+		"category": "Bill",
+		"introductionDate": "2026-05-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0685",
+		"title": "151 Q Street Residential Economic Development Real Property Tax Exemption Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0685",
+		"category": "Bill",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0158",
+		"title": "David C. Tseng Ceremonial Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0158",
+		"category": "Resolution",
+		"introductionDate": "2026-05-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0159",
+		"title": "DC Black Pride Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0159",
+		"category": "Resolution",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0160",
+		"title": "Romaine B. Thomas Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0160",
+		"category": "Resolution",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0161",
+		"title": "Whittier Elementary School 100th Anniversary Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0161",
+		"category": "Resolution",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0683",
+		"title": "Personal Delivery Device Weight Limit Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0683",
+		"category": "Resolution",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0684",
+		"title": "DC Water and Sewer Authority Billing and Disconnection Clarification Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0684",
+		"category": "Resolution",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0685",
+		"title": "Reservoir District Tax Exemption Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0685",
+		"category": "Resolution",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0686",
+		"title": "Modification No. 4 to Multiyear Contract No. CW91301 with Thales DIS USA, Inc. Approval and Payment Authorization Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0686",
+		"category": "Resolution",
+		"introductionDate": "2026-05-01"
 	}
 ]
