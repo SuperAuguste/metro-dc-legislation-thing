@@ -28242,7 +28242,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB656",
-		"title": "Mental health & substance abuse disorders; network adequacy standards, comparative analyses.",
+		"title": "Mental health & substance abuse disorders; network adequacy standards, comparative analyses, report.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB656",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -53884,6 +53884,38 @@
 		"id": "PG-CR-036-2026",
 		"title": "A RESOLUTION CONCERNING CONTRACT APPROVALS for the purpose of approving certain multiyear contracts in accordance with the Prince George's County Charter and Subtitle 10 of the Prince George's County Code.",
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8003077&GUID=D09C5C1F-3652-49A8-A5E4-847A0E7BBDF4",
+		"category": "Resolution",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0687",
+		"title": "Board of Pharmacy Dr. Allison Hill Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0687",
+		"category": "Resolution",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0688",
+		"title": "Board of Pharmacy Dr. Jamila Jorden Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0688",
+		"category": "Resolution",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0689",
+		"title": "Board of Pharmacy Dr. Jewell Reddick Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0689",
+		"category": "Resolution",
+		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0690",
+		"title": "Board of Pharmacy Dr. Stephanie Johnican Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0690",
 		"category": "Resolution",
 		"introductionDate": "2026-05-04"
 	}
