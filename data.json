@@ -41506,7 +41506,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB286",
-		"title": "State Government Internship Coordinator; Department of Human Resource Management to appoint.",
+		"title": "State Government Internship Coordinator; DHRM to establish and employ.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB286",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -53918,5 +53918,77 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0690",
 		"category": "Resolution",
 		"introductionDate": "2026-05-04"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1105",
+		"title": "Supplemental Appropriation #26-43 to the FY26 Operating Budget Montgomery County Government – Department of Transportation Streets and Roads – Roadside Trees-Protection, $100,050",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12792",
+		"category": "Resolution",
+		"introductionDate": "2026-04-21"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1104",
+		"title": "Memorandum of Agreement between the County and the Montgomery County Volunteer Fire-Rescue Association (MCVFRA) – Fiscal Year 2027",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12791",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1103",
+		"title": "County Executive’s Appointment to the Department of Permitting Services Advisory Committee",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12790",
+		"category": "Resolution",
+		"introductionDate": "2026-05-05"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1102",
+		"title": "County Executive’s Appointment to the Criminal Justice Coordinating Commission",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12789",
+		"category": "Resolution",
+		"introductionDate": "2026-05-05"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1101",
+		"title": "Supplemental Appropriation #26-25 to the FY26 Operating Budget Montgomery County Government: Department of Health and Human Services, $2,200,000; and Department of Technology and Business Solutions, $800,000, Community Connect Portal Continued Development (Source of Funds: General Fund Undesignated Reserves)",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12788",
+		"category": "Resolution",
+		"introductionDate": "2026-02-03"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1100",
+		"title": "Supplemental Appropriation #26-67 to the FY26 Capital Budget Montgomery County Government – Department of Transportation North Bethesda Metro Station Northern Entrance (No. 501914), $275,000",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12787",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1099",
+		"title": "Collective Bargaining Agreement with the Fraternal Order of Police, Montgomery County Lodge 35, Inc. - Fiscal Year 2027",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12786",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1098",
+		"title": "Collective Bargaining Agreement with the Montgomery County Career Fire Fighters Association of the International Association of Fire Fighters (IAFF), Local 1664 - Fiscal Year 2027",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12785",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1097",
+		"title": "Collective Bargaining Agreement with the Municipal & County Government Employees Organization, UFCW, Local 1994 - Fiscal Year 2027",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12784",
+		"category": "Resolution",
+		"introductionDate": "2026-04-14"
 	}
 ]
