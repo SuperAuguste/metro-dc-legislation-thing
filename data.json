@@ -54006,5 +54006,141 @@
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8008929&GUID=04728BE1-73CB-4EE8-B7A3-254B5C752B83",
 		"category": "Resolution",
 		"introductionDate": "2026-03-16"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 24-26E",
+		"title": "Building Permits - Data Center Moratorium",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2912",
+		"category": "Bill",
+		"introductionDate": "2026-05-12"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 23-26E",
+		"title": "Weapons - Restrictions on Ghost Guns Near Minors and Carrying of Firearms in or Near Places of Public Assembly",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2911",
+		"category": "Bill",
+		"introductionDate": "2026-05-12"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 5-26E",
+		"title": "Police - Mask or Facial Coverings - Prohibited (The Unmask ICE Act)",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2893",
+		"category": "Bill",
+		"introductionDate": "2026-01-20"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0686",
+		"title": "Alpha Omega Social Action and Scholarship Foundation Real Property Tax Exemption Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0686",
+		"category": "Bill",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0691",
+		"title": "Health Benefit Exchange Authority Executive Board John Auerbach Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0691",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0692",
+		"title": "District of Columbia Board of Elections Gregory McCarthy Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0692",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0693",
+		"title": "District of Columbia Sentencing Commission Rev. Terrance McKinley Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0693",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0694",
+		"title": "District of Columbia Sentencing Commission James Berry, Jr. Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0694",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0695",
+		"title": "Police Complaints Board Peter Durkin Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0695",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0696",
+		"title": "Domestic Violence Fatality Review Board Tia Minor Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0696",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0697",
+		"title": "Commission on Asian and Pacific Islander Community Development Monica Jahan Bose Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0697",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0698",
+		"title": "Commission on Asian and Pacific Islander Community Development David Inoue Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0698",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0699",
+		"title": "Commission on Asian and Pacific Islander Community Development Jennifer Anderson Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0699",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0700",
+		"title": "Commission on Asian and Pacific Islander Community Development Karen Kwok Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0700",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0701",
+		"title": "Commission on Asian and Pacific Islander Community Development Elena Son Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0701",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0702",
+		"title": "Commission on Asian and Pacific Islander Community Development Jeffrey Le Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0702",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0703",
+		"title": "Commission on Asian and Pacific Islander Community Development Sina Uipi Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0703",
+		"category": "Resolution",
+		"introductionDate": "2026-05-06"
 	}
 ]
