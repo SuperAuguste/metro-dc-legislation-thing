@@ -53990,5 +53990,21 @@
 		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12784",
 		"category": "Resolution",
 		"introductionDate": "2026-04-14"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-040-2026",
+		"title": "AN ACT CONCERNING THE HUMAN TRAFFICKING AWARENESS NOTICE for the purpose of increasing public awareness, support victims, and encourage safe reporting of suspected human trafficking and requiring all hotels, motels, and other similar lodging establishments operating within the County to post a human trafficking awareness notice inside each guest room.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8008915&GUID=D10F6B73-A38E-4370-B80F-95381C6B250C",
+		"category": "Council Bill",
+		"introductionDate": "2026-02-06"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-037-2026",
+		"title": "A RESOLUTION CONCERNING STOP SIGN MONITORING SYSTEMS - TOWN OF BLADENSBURG for the purpose of providing County Council approval of locations for stop sign monitoring systems in the Town of Bladensburg and generally regarding stop sign monitoring systems.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8008929&GUID=04728BE1-73CB-4EE8-B7A3-254B5C752B83",
+		"category": "Resolution",
+		"introductionDate": "2026-03-16"
 	}
 ]
