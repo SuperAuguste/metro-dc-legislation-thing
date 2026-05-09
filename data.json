@@ -54142,5 +54142,61 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0703",
 		"category": "Resolution",
 		"introductionDate": "2026-05-06"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-041-2026",
+		"title": "AN ACT CONCERNING CLEAN CORRIDORS AND RAPID RESPONSE ACT OF 2026 for the purpose of creating a Clean Corridors and Rapid Response Program for expedited removal of illegal dumping and litter in designated areas; providing for the designation of Clean Corridors by Council resolution; and generally relating to removal of debris and litter from sidewalks and debris from roadways.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8013192&GUID=5E2C8BC4-CF8F-4856-B930-537F7CC7013F",
+		"category": "Council Bill",
+		"introductionDate": "2026-05-07"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-042-2026",
+		"title": "AN ACT CONCERNING CLEAN COMMUNITIES TRANSPARENCY DASHBOARD ACT OF 2026 for the purpose of requiring the Office of Community Relations to create a Clean Communities Transparency Dashboard to inform residents of the County’s illegal dumping and litter clean-up efforts; identifying data to be made available on the Dashboard; requiring regular updating of the contents of the Dashboard; and generally relating to open data.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8013193&GUID=E67508DA-F2BD-4BF0-97F0-5A8D617BA2AF",
+		"category": "Council Bill",
+		"introductionDate": "2026-05-07"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-043-2026",
+		"title": "AN ACT CONCERNING VACANT PROPERTY MAINTENANCE AND ABATEMENT ACT for the purpose of strengthening enforcement of housing and property standards on vacant properties; providing for administrative citations for unmaintained vacant properties; increasing the amounts of fines for repeat violations; and generally relating to vacant property.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8013194&GUID=6796D991-EA29-446F-A2A5-AA78B9E5BADE",
+		"category": "Council Bill",
+		"introductionDate": "2026-05-07"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-044-2026",
+		"title": "AN ACT CONCERNING ILLEGAL SIGNAGE ENFORCEMENT ACT OF 2026 for the purpose of strengthening enforcement against the placement of illegal signs and illegal objects in County rights-of-way; requiring public utilities to remove illegal signs and objects placed on their infrastructure in County rights-of-way; increasing and establishing fines to reduce the placement and persistence of illegal signs and illegal objects in County rights-of-way; increasing liability for the placement of illegal signs and illegal objects in County rights-of-way; and generally relating to eliminating illegal signs and illegal objects in County rights-of-way.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8013200&GUID=B67D7BC1-59B6-46F7-A8EA-B85AF2565D0D",
+		"category": "Council Bill",
+		"introductionDate": "2026-05-07"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-045-2026",
+		"title": "AN ACT CONCERNING SEE IT, SNAP IT, GET PAID ACT OF 2026 for the purpose of establishing a Prince George’s County Beautification Enforcement Incentive Program to enhance the aesthetic conditions and environmental quality and well-being of Prince George’s County; and generally relating to civil enforcement.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8013201&GUID=EA883CDB-E2A3-4E86-9A5B-DBF1DFD22137",
+		"category": "Council Bill",
+		"introductionDate": "2026-05-07"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-038-2026",
+		"title": "A RESOLUTION CONCERNING TEMPORARY MORATORIUM ON CONVENIENCE STORE GROWTH IN COUNCIL DISTRICT 7 for the purpose of establishing a one (1) year moratorium on building or expanding convenience stores in Council District 7 and requesting a study of the quality-of-life impacts of the saturation of convenience stores in Council District 7.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8013202&GUID=BA4B8C0F-CA46-42C6-B705-4466805DDDD0",
+		"category": "Resolution",
+		"introductionDate": "2026-05-07"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-046-2026",
+		"title": "AN ACT CONCERNING VACANT REAL PROPERTIES TAX RATE for the purpose of establishing a real property tax rate for real properties consisting of vacant houses/buildings or improved property cited as vacant and unfit for habitation or other authorized use on a housing or building violation notice; specifying the use of the proceeds from the aforementioned tax; and generally relating to property tax on vacant real properties.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8013203&GUID=DB6FDA6C-FDE5-4E5B-B975-FBC184E60C98",
+		"category": "Council Bill",
+		"introductionDate": "2026-05-08"
 	}
 ]
