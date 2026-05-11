@@ -54198,5 +54198,21 @@
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8013203&GUID=DB6FDA6C-FDE5-4E5B-B975-FBC184E60C98",
 		"category": "Council Bill",
 		"introductionDate": "2026-05-08"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0687",
+		"title": "School Food Waste Reduction and Composting Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0687",
+		"category": "Bill",
+		"introductionDate": "2026-05-07"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0704",
+		"title": "Methodist Home of the District of Columbia d/b/a Forest Hills of DC by Goodwin Living Revenue Bonds Project Approval Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0704",
+		"category": "Resolution",
+		"introductionDate": "2026-05-07"
 	}
 ]
