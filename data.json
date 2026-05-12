@@ -40314,7 +40314,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB137",
-		"title": "Obstructing health care facility access; penalties.",
+		"title": "Obstructing health care facility; penalties.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB137",
 		"category": "Bill",
 		"introductionDate": "2026-01-06"
@@ -42202,7 +42202,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB373",
-		"title": "Va. Residential Landlord and Tenant Act; defense to action for possessions for nonpayment of rent.",
+		"title": "Va. Residential Landlord and Tenant Act; defense to action for possession for nonpayment of rent",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB373",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -54238,5 +54238,29 @@
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8024446&GUID=4F8720EB-BA85-488D-A8EF-7C248D4C0192",
 		"category": "Resolution",
 		"introductionDate": "2026-05-12"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0688",
+		"title": "Student Health Care Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0688",
+		"category": "Bill",
+		"introductionDate": "2026-05-11"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0689",
+		"title": "Closing of a Portion of a Public Alley in Square 785, S.O. 21-03369, Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0689",
+		"category": "Bill",
+		"introductionDate": "2026-05-11"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0705",
+		"title": "Office of Employee Appeals Lafayette Barnes Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0705",
+		"category": "Resolution",
+		"introductionDate": "2026-05-11"
 	}
 ]
