@@ -38386,7 +38386,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HR139",
-		"title": "United States Navy; F-35C home base.",
+		"title": "United States Navy; encouraging to select Naval Air Station Oceana in Va. Beach as F-35C home base.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HR139",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-02-19"
@@ -54010,7 +54010,7 @@
 	{
 		"jurisdiction": "Montgomery County",
 		"id": "MC-Bill 24-26E",
-		"title": "Building Permits - Data Center Moratorium",
+		"title": "Buildings - Building Permits - Data Center Moratorium",
 		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2912",
 		"category": "Bill",
 		"introductionDate": "2026-05-12"
@@ -54260,6 +54260,14 @@
 		"id": "DC-PR26-0705",
 		"title": "Office of Employee Appeals Lafayette Barnes Confirmation Resolution of 2026",
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0705",
+		"category": "Resolution",
+		"introductionDate": "2026-05-11"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0706",
+		"title": "Proposed Contract No. GAGA-2026-C-0049 with Curriculum Associates, LLC Disapproval Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0706",
 		"category": "Resolution",
 		"introductionDate": "2026-05-11"
 	}
