@@ -25242,7 +25242,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB281",
-		"title": "Va. Residential Landlord and Tenant Act; defense to action for possessions for nonpayment of rent",
+		"title": "Va. Residential Landlord and Tenant Act; defense to action for possession for nonpayment of rent",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB281",
 		"category": "Bill",
 		"introductionDate": "2026-01-09"
@@ -32514,7 +32514,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1191",
-		"title": "Electric substation construction agreements; \"electric cooperatives\" or \"cooperative\", definitions.",
+		"title": "Electric substation construction agreements; \"electric cooperatives\" or \"cooperative,\" definitions.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1191",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -42234,7 +42234,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB377",
-		"title": "Electric substation construction agreements; \"electric cooperatives\" or \"cooperative\", definitions.",
+		"title": "Electric substation construction agreements; \"electric cooperatives\" or \"cooperative,\" definitions.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB377",
 		"category": "Bill",
 		"introductionDate": "2026-01-13"
@@ -54422,5 +54422,13 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0709",
 		"category": "Resolution",
 		"introductionDate": "2026-05-14"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Resolution 20-1122",
+		"title": "FY27 System Development Charge (SDC)",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12809",
+		"category": "Resolution",
+		"introductionDate": "2026-05-15"
 	}
 ]
