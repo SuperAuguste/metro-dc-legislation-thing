@@ -54430,5 +54430,13 @@
 		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12809",
 		"category": "Resolution",
 		"introductionDate": "2026-05-15"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0710",
+		"title": "Commission on Human Rights Reverend Thomas Bowen Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0710",
+		"category": "Resolution",
+		"introductionDate": "2026-05-15"
 	}
 ]
