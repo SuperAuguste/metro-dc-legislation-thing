@@ -47986,7 +47986,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SR71",
-		"title": "Earle-Sears, Winsome; portrait to be framed and placed in Capitol",
+		"title": "Earle-Sears, Winsome; portrait to be framed and placed in the Capitol.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SR71",
 		"category": "Joint Resolution",
 		"introductionDate": "2026-02-24"
@@ -54438,5 +54438,181 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0710",
 		"category": "Resolution",
 		"introductionDate": "2026-05-15"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 26-26E",
+		"title": "Capital Improvements - Special Project - North Bethesda Fire Station",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2914",
+		"category": "Bill",
+		"introductionDate": "2026-05-21"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 25-26E",
+		"title": "Capital Improvements - Special Project - Wheaton Arts and Cultural Center",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2913",
+		"category": "Bill",
+		"introductionDate": "2026-05-21"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0690",
+		"title": "Modification Nos. M0010 and M0011 to Contract No. CW92877 with Avid Systems, LLC Approval and Payment Authorization Emergency Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0690",
+		"category": "Bill",
+		"introductionDate": "2026-05-15"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0691",
+		"title": "Modification Nos. M0002, M003 , M0004 and M0005 to Contract No. CW118049 with Networking for Future, Inc. Approval and Payment Authorization Emergency Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0691",
+		"category": "Bill",
+		"introductionDate": "2026-05-18"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0711",
+		"title": "Modification Nos. M0010 and M0011 to Contract No. CW92877 with Avid Systems, LLC Approval and Payment Authorization Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0711",
+		"category": "Resolution",
+		"introductionDate": "2026-05-15"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0712",
+		"title": "Modification Nos. M0002, M0003, M0004 and M0005 to Contract No. CW118049 with Networking for Future, Inc. Approval and Payment Authorization Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0712",
+		"category": "Resolution",
+		"introductionDate": "2026-05-18"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0713",
+		"title": "Child Support Guideline Commission Erin C. Golding Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0713",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0714",
+		"title": "Commission on Human Rights Pratima Narayan Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0714",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0715",
+		"title": "Commission on Human Rights Joshua Blecher-Cohen Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0715",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0716",
+		"title": "Commission on Human Rights Dr. Krista Bywater Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0716",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0717",
+		"title": "Commission on Human Rights Niranjan Adhikari Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0717",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0718",
+		"title": "Commission on Human Rights Monika Nemeth Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0718",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0719",
+		"title": "Commission on Re-Entry and Returning Citizen Affairs Tiffany Edmundson Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0719",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0720",
+		"title": "Commission on Re-Entry and Returning Citizen Affairs DeAnthony Campbell Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0720",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0721",
+		"title": "Commission on Re-Entry and Returning Citizen Affairs Earnest Hanible Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0721",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0722",
+		"title": "Commission on Re-Entry and Returning Citizen Affairs Clarence Johnson Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0722",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0723",
+		"title": "Commission on Re-Entry and Returning Citizen Affairs Celeste Santifer Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0723",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0724",
+		"title": "Commission on Re-Entry and Returning Citizen Affairs Joe Houston, Jr. Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0724",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0725",
+		"title": "Commission on Re-Entry and Returning Citizen Affairs Loniece Hamilton Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0725",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0726",
+		"title": "Commission on Re-Entry and Returning Citizen Affairs Michael Plummer Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0726",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0727",
+		"title": "Commission on Re-Entry and Returning Citizen Affairs Melvin McLean Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0727",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0728",
+		"title": "Commission on Re-Entry and Returning Citizen Affairs Tamika Bruce Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0728",
+		"category": "Resolution",
+		"introductionDate": "2026-05-19"
 	}
 ]
