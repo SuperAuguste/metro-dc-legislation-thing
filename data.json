@@ -35197,7 +35197,7 @@
 		"title": "Health insurance; prior authorization, required contract provisions.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1526",
 		"category": "Bill",
-		"introductionDate": "2026-01-27"
+		"introductionDate": "2026-01-28"
 	},
 	{
 		"jurisdiction": "Virginia",
@@ -54966,5 +54966,13 @@
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8038525&GUID=87D4C548-49ED-417C-8D8F-D0ED44860D49",
 		"category": "Resolution",
 		"introductionDate": "2026-05-21"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0162",
+		"title": "Wendy Glenn Ceremonial Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0162",
+		"category": "Resolution",
+		"introductionDate": "2026-05-13"
 	}
 ]
