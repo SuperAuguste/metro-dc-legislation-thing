@@ -31074,7 +31074,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-HB1011",
-		"title": "Compost and other products containing organic soil amendments infrastructure; DEQ tax policy option.",
+		"title": "Compost and other products containing organic soil amendments; waste disposal infrastructure, etc.",
 		"link": "https://lis.virginia.gov/bill-details/20261/HB1011",
 		"category": "Bill",
 		"introductionDate": "2026-01-14"
@@ -41026,7 +41026,7 @@
 	{
 		"jurisdiction": "Virginia",
 		"id": "VA-20261-SB226",
-		"title": "Compost and other products containing organic soil amendments infrastructure; DEQ tax policy option.",
+		"title": "Compost and other products containing organic soil amendments; waste disposal infrastructure, etc.",
 		"link": "https://lis.virginia.gov/bill-details/20261/SB226",
 		"category": "Bill",
 		"introductionDate": "2026-01-10"
@@ -54974,5 +54974,53 @@
 		"link": "https://lims.dccouncil.gov/Legislation/CER26-0162",
 		"category": "Resolution",
 		"introductionDate": "2026-05-13"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0692",
+		"title": "Modification 0001 to Contract No. CW132711 with Total Civil Construction Approval and Payment Authorization Emergency Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0692",
+		"category": "Bill",
+		"introductionDate": "2026-05-22"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0693",
+		"title": "Modification Nos. M0006 and M0008 to Contract No. GAGA-2022-C-0385-A with Aramark Educational Services, LLC, Approval and Payment Authorization Emergency Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0693",
+		"category": "Bill",
+		"introductionDate": "2026-05-26"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0694",
+		"title": "Modification Nos. M0006 and M0007 to Contract No. GAGA-2022-C-0385-C with SodexoMagic, LLC, Approval and Payment Authorization Emergency Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0694",
+		"category": "Bill",
+		"introductionDate": "2026-05-26"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0729",
+		"title": "Modification No. 0001 to Contract No. CW132711 with Total Civil Construction Approval and Payment Authorization Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0729",
+		"category": "Resolution",
+		"introductionDate": "2026-05-22"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0730",
+		"title": "Modification Nos. M0006 and M0008 to Contract No. GAGA-2022-C-0385-A with Aramark Educational Services, LLC, Approval and Payment Authorization Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0730",
+		"category": "Resolution",
+		"introductionDate": "2026-05-26"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0731",
+		"title": "Modification Nos. M0006 and M0007 to Contract No. GAGA-2022-C-0385-C with SodexoMagic, LLC, Approval and Payment Authorization Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0731",
+		"category": "Resolution",
+		"introductionDate": "2026-05-26"
 	}
 ]
