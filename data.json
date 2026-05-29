@@ -55126,5 +55126,21 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0733",
 		"category": "Resolution",
 		"introductionDate": "2026-05-28"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0697",
+		"title": "Department of Energy and Environment Reporting Requirements Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0697",
+		"category": "Bill",
+		"introductionDate": "2026-05-27"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0734",
+		"title": "Local Rent Supplement Program (LRSP) Contract Number 2025-LRSP-02A with Flats at South Capitol, LLC LRSP Funding Increase Approval Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0734",
+		"category": "Resolution",
+		"introductionDate": "2026-05-26"
 	}
 ]
