@@ -55189,7 +55189,7 @@
 		"title": "Malcolm X Elementary School Designation Act of 2026",
 		"link": "https://lims.dccouncil.gov/Legislation/B26-0698",
 		"category": "Bill",
-		"introductionDate": "2026-05-29"
+		"introductionDate": "2026-05-28"
 	},
 	{
 		"jurisdiction": "District of Columbia",
@@ -55214,5 +55214,45 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0735",
 		"category": "Resolution",
 		"introductionDate": "2026-05-28"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0164",
+		"title": "Chris Wheatley Figueras Ceremonial Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0164",
+		"category": "Resolution",
+		"introductionDate": "2026-06-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0165",
+		"title": "Laurice Gadson Redhead Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0165",
+		"category": "Resolution",
+		"introductionDate": "2026-06-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0166",
+		"title": "DC Central Kitchen Culinary Job Training Program Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0166",
+		"category": "Resolution",
+		"introductionDate": "2026-06-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0167",
+		"title": "Dr. Thornell Kenly Page Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0167",
+		"category": "Resolution",
+		"introductionDate": "2026-06-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0168",
+		"title": "Continental Societies, Inc. Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0168",
+		"category": "Resolution",
+		"introductionDate": "2026-06-01"
 	}
 ]
