@@ -55174,5 +55174,45 @@
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8045140&GUID=008C6658-9595-4B20-BFE7-B70C0C1646BA",
 		"category": "Resolution",
 		"introductionDate": "2026-05-26"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CB-062-2026",
+		"title": "AN ACT CONCERNING PREVAILING HOURS AND WAGE RATES ON PUBLIC WORKS - EMPLOYMENT - APPRENTICEABLE TRADES for the purpose of generally requiring contractors and subcontractors on certain public works to employ workers from apprenticeable trades who are either apprentices participating in an apprenticeship program registered with the Maryland Apprenticeship and Training Council or who have completed a registered apprenticeship program; adding a certain definition; increasing the amount of damages for violations of the law; and generally relating to prevailing hours and wage rates on public works.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8045483&GUID=74799380-EAF5-4589-BB37-F032314ADC62",
+		"category": "Council Bill",
+		"introductionDate": "2026-01-09"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0698",
+		"title": "Malcolm X Elementary School Designation Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0698",
+		"category": "Bill",
+		"introductionDate": "2026-05-29"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0699",
+		"title": "Arena Safety Conformity Congressional Review Emergency Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0699",
+		"category": "Bill",
+		"introductionDate": "2026-05-28"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0163",
+		"title": "Gun Violence Awareness Month Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0163",
+		"category": "Resolution",
+		"introductionDate": "2026-06-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0735",
+		"title": "Arena Safety Conformity Congressional Review Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0735",
+		"category": "Resolution",
+		"introductionDate": "2026-05-28"
 	}
 ]
