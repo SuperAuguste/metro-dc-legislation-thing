@@ -7186,7 +7186,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-SB0707",
-		"title": "Mental Health Law - Definition of Danger to the Life or Safety of the Individual or of Others and Reports on Emergency Evaluation Petitions (Right to Treatment)",
+		"title": "Mental Health Law - Danger to the Life or Safety of the Individual or of Others - Definition (Right to Treatment)",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0707?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-02-06"
@@ -13906,7 +13906,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-SB0394",
-		"title": "Public Health - Expedited Partner Therapy - Bacterial Vaginosis",
+		"title": "Public Health - Expedited Partner Therapy - Bacterial Vaginosis and Licensed Certified Midwives",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0394?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-01-28"
@@ -16058,7 +16058,7 @@
 	{
 		"jurisdiction": "Maryland",
 		"id": "MD-2026RS-HB0395",
-		"title": "Water Pollution Control - Discharge Permits - Concentrated Animal Feeding Operations",
+		"title": "Water Pollution Control - Discharge Permits - Animal Feeding Operations",
 		"link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0395?ys=2026RS#",
 		"category": "Bill",
 		"introductionDate": "2026-01-22"
@@ -55252,6 +55252,38 @@
 		"id": "DC-CER26-0168",
 		"title": "Continental Societies, Inc. Recognition Resolution of 2026",
 		"link": "https://lims.dccouncil.gov/Legislation/CER26-0168",
+		"category": "Resolution",
+		"introductionDate": "2026-06-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0169",
+		"title": "Glen A. Staples Ceremonial Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0169",
+		"category": "Resolution",
+		"introductionDate": "2026-06-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0170",
+		"title": "Philip Pannell Ceremonial Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0170",
+		"category": "Resolution",
+		"introductionDate": "2026-06-01"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-CER26-0171",
+		"title": "LGBTQIA+ Pride Recognition Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/CER26-0171",
+		"category": "Resolution",
+		"introductionDate": "2026-06-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0736",
+		"title": "Hill East Phase II Bundle 2 Disposition Term Sheet Amendment Approval Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0736",
 		"category": "Resolution",
 		"introductionDate": "2026-06-01"
 	}
