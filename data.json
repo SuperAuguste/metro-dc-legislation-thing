@@ -52626,7 +52626,7 @@
 	{
 		"jurisdiction": "Prince George's County",
 		"id": "PG-CR-024-2026",
-		"title": "A RESOLUTION CONCERNING THE ACCESSIBILITY TASKFORCE FOR THE BLIND AND DEAF for the purpose of identifying accessibility barriers and developing recommendations to improve access for blind, low-vision, deaf, and hard-of-hearing residents in Prince George’s County; consideration of related accessibility issues affecting other residents with disabilities; the membership of the accessibility task force; and generally relating to improving accessibility for residents who are deaf or blind.",
+		"title": "A RESOLUTION CONCERNING THE ACCESSIBILITY TASKFORCE FOR PEOPLE WHO ARE BLIND, LOW-VISION, DEAF, HARD OF HEARING, OR DEAF BLIND for the purpose of identifying accessibility barriers and developing recommendations to improve access for blind, low-vision, deaf, hard-of-hearing residents, and deaf blind in Prince George’s County; consideration of related accessibility issues affecting other residents with disabilities; the membership of the accessibility task force; and generally relating to improving accessibility for residents who are deaf or blind.",
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=7971015&GUID=254A47DB-0676-4C42-97AD-41152B4228AE",
 		"category": "Resolution",
 		"introductionDate": "2026-03-05"
@@ -55310,5 +55310,13 @@
 		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8060358&GUID=2C787E11-1BD6-43A2-A935-2FD136A6098F",
 		"category": "Resolution",
 		"introductionDate": "2026-06-01"
+	},
+	{
+		"jurisdiction": "Prince George's County",
+		"id": "PG-CR-061-2026",
+		"title": "A RESOLUTION CONCERNING UNIVERSAL DESIGN FOR HOUSING - IMPLEMENTATION DATE EXTENSION - MULTIFAMILY RESIDENTIAL DWELLING UNITS for the purpose of extending the implementation date for certain Prince George’s County Code and The Zoning Ordinance of Prince George’s County, Maryland laws regarding the County’s universal design for housing law; providing for the extension of the implementation date solely for multifamily residential dwelling units to a certain time; and generally regarding universal design for housing.",
+		"link": "https://princegeorgescountymd.legistar.com/Gateway.aspx?M=LD&From=RSS&ID=8064321&GUID=FCEDE655-33F3-488E-B50E-7EA8CB31BA34",
+		"category": "Resolution",
+		"introductionDate": "2026-05-22"
 	}
 ]
