@@ -55382,5 +55382,45 @@
 		"link": "https://apps.montgomerycountymd.gov/ccllims/ResolutionDetailsPage.aspx?RecordId=12834",
 		"category": "Resolution",
 		"introductionDate": "2026-01-27"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 31-26E",
+		"title": "Expedited Bill 31-26, Bond Authorization - VIVA White Oak Development District",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2919",
+		"category": "Bill",
+		"introductionDate": "2026-06-16"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 30-26E",
+		"title": "Expedited Bill 30-26, Bond Authorization - Stormwater Management",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2918",
+		"category": "Bill",
+		"introductionDate": "2026-06-16"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 29-26E",
+		"title": "Expedited Bill 29-26, Personnel and Human Resources - Eligibility for County Employment (Community Trust in County Employees Act)",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2917",
+		"category": "Bill",
+		"introductionDate": "2026-06-16"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 28-26",
+		"title": "Bill 28-26, Health and Sanitation - Intellectual and Developmental Disabilities Commission - Membership; appointment; terms - Amendments",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2916",
+		"category": "Bill",
+		"introductionDate": "2026-06-16"
+	},
+	{
+		"jurisdiction": "Montgomery County",
+		"id": "MC-Bill 27-26",
+		"title": "Bill 27-26, Motor Vehicles and Traffic - Unlawful Racing and Street Takeovers - Prohibited",
+		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2915",
+		"category": "Bill",
+		"introductionDate": "2026-06-16"
 	}
 ]
