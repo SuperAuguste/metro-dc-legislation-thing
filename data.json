@@ -55422,5 +55422,77 @@
 		"link": "https://apps.montgomerycountymd.gov/ccllims/BillDetailsPage.aspx?RecordId=2915",
 		"category": "Bill",
 		"introductionDate": "2026-06-16"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0700",
+		"title": "Reservoir District Tax Exemption Amendment Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0700",
+		"category": "Bill",
+		"introductionDate": "2026-06-03"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0701",
+		"title": "Modification Nos. M0008 and M0009 to Contract No. CW113639 with Safeware, Inc. Approval and Payment Authorization Emergency Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0701",
+		"category": "Bill",
+		"introductionDate": "2026-06-03"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0702",
+		"title": "First Responders Facilities Modernization Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0702",
+		"category": "Bill",
+		"introductionDate": "2026-06-05"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0737",
+		"title": "Public Employee Relations Board Lee Clark Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0737",
+		"category": "Resolution",
+		"introductionDate": "2026-06-02"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0738",
+		"title": "Office of Employee Appeals Philip A. McNamara Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0738",
+		"category": "Resolution",
+		"introductionDate": "2026-06-02"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0739",
+		"title": "Glover Park Moratorium Zone Approval Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0739",
+		"category": "Resolution",
+		"introductionDate": "2026-06-03"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0740",
+		"title": "Modification Nos. M0008 and M0009 to Contract No. CW113639 with Safeware, Inc. Approval and Payment Authorization Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0740",
+		"category": "Resolution",
+		"introductionDate": "2026-06-03"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0741",
+		"title": "Board of Trustees of the University of the District of Columbia Marc Battle Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0741",
+		"category": "Resolution",
+		"introductionDate": "2026-06-04"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0742",
+		"title": "Modification Nos. M0005, M0006 and M0007 to Contract No. CW119500 with Community of Hope, Inc. Approval and Payment Authorization Emergency Declaration Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0742",
+		"category": "Resolution",
+		"introductionDate": "2026-06-08"
 	}
 ]
