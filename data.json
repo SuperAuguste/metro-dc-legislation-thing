@@ -55494,5 +55494,29 @@
 		"link": "https://lims.dccouncil.gov/Legislation/PR26-0742",
 		"category": "Resolution",
 		"introductionDate": "2026-06-08"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-B26-0703",
+		"title": "Modification Nos. M0005, M0006 and M0007 to Contract No. CW119500 with Community of Hope, Inc. Approval and Payment Authorization Emergency Act of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/B26-0703",
+		"category": "Bill",
+		"introductionDate": "2026-06-08"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0743",
+		"title": "Police Complaints Board Mikyala Moore Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0743",
+		"category": "Resolution",
+		"introductionDate": "2026-06-09"
+	},
+	{
+		"jurisdiction": "District of Columbia",
+		"id": "DC-PR26-0744",
+		"title": "Board of Zoning Adjustment Robyn Wells Confirmation Resolution of 2026",
+		"link": "https://lims.dccouncil.gov/Legislation/PR26-0744",
+		"category": "Resolution",
+		"introductionDate": "2026-06-10"
 	}
 ]
